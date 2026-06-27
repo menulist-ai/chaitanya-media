@@ -88,16 +88,21 @@ export function Header({content, locale}: HeaderProps) {
                         {content.home.serviceStackEyebrow}
                       </span>
                       <div className="desktop-service-goal-list">
-                        {content.home.serviceGroups.map((group, index) => (
+                        {content.home.serviceGroups.map((group) => (
                           <Link
                             className="desktop-service-goal"
                             href={localePath(locale, `/services/${group.slug}/`)}
                             key={group.title}
                             onClick={closeDesktopServices}
                           >
-                            <span>{String(index + 1).padStart(2, "0")}</span>
+                            <span className="desktop-service-goal-marker" aria-hidden="true" />
                             <strong>{group.title}</strong>
-                            <small>{String(group.slugs.length).padStart(2, "0")}</small>
+                            <ArrowRight
+                              aria-hidden="true"
+                              className="desktop-service-goal-arrow"
+                              size={15}
+                              strokeWidth={2.2}
+                            />
                           </Link>
                         ))}
                       </div>

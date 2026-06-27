@@ -379,7 +379,7 @@ svg {
 
 .desktop-services-layout {
   display: grid;
-  grid-template-columns: 270px minmax(0, 1fr) 270px;
+  grid-template-columns: 300px minmax(0, 1fr) 260px;
   gap: 0;
   margin-top: 14px;
   border: 1px solid var(--line-soft);
@@ -413,16 +413,16 @@ svg {
 
 .desktop-service-goal-list {
   display: grid;
-  gap: 8px;
+  gap: 6px;
 }
 
 .desktop-service-goal {
   display: grid;
-  grid-template-columns: 38px minmax(0, 1fr) 34px;
+  grid-template-columns: 12px minmax(0, 1fr) 18px;
   align-items: center;
   gap: 12px;
-  min-height: 54px;
-  padding: 8px 10px;
+  min-height: 52px;
+  padding: 9px 12px;
   border: 1px solid transparent;
   border-radius: calc(var(--radius) + 4px);
   color: var(--text);
@@ -435,31 +435,39 @@ svg {
 .desktop-service-goal:hover,
 .desktop-service-goal:focus-visible {
   border-color: color-mix(in srgb, var(--action-blue) 34%, var(--line-soft));
-  background: var(--control-bg);
+  background: color-mix(in srgb, var(--control-bg) 72%, transparent);
   color: var(--text);
   transform: translateX(2px);
 }
 
-.desktop-service-goal span,
-.desktop-service-goal small {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 34px;
-  min-height: 34px;
+.desktop-service-goal-marker {
+  width: 8px;
+  height: 8px;
   border-radius: 999px;
-  background: color-mix(in srgb, var(--action-blue) 22%, transparent);
-  color: var(--trust-blue);
-  font-size: 12px;
-  font-weight: 760;
-  line-height: 1;
+  background: color-mix(in srgb, var(--action-blue) 58%, transparent);
+  box-shadow: 0 0 0 5px color-mix(in srgb, var(--action-blue) 12%, transparent);
 }
 
 .desktop-service-goal strong {
   min-width: 0;
   color: var(--heading);
-  font-size: 14px;
-  line-height: 1.18;
+  font-size: 14.5px;
+  line-height: 1.16;
+}
+
+.desktop-service-goal-arrow {
+  color: var(--trust-blue);
+  opacity: 0;
+  transform: translateX(-4px);
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
+}
+
+.desktop-service-goal:hover .desktop-service-goal-arrow,
+.desktop-service-goal:focus-visible .desktop-service-goal-arrow {
+  opacity: 1;
+  transform: translateX(0);
 }
 
 .desktop-service-clusters {
