@@ -271,10 +271,6 @@ type HomeCopy = {
   reelsOpenCta: string;
   reelsActiveLabel: string;
   reelsPreviewLabel: string;
-  smoothEyebrow: string;
-  smoothTitle: string;
-  smoothText: string;
-  smoothCards: {title: string; text: string}[];
   engineEyebrow: string;
   engineTitle: string;
   engineText: string;
@@ -1782,28 +1778,6 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       reelsOpenCta: "Open Reel",
       reelsActiveLabel: "Now playing",
       reelsPreviewLabel: "Preview reel",
-      smoothEyebrow: "Easy browsing",
-      smoothTitle: "A website should be simple to read, trust, and contact.",
-      smoothText:
-        "Most visitors will open this site on mobile. Every section is kept clear so Indian business owners and campaign teams can quickly understand the service and make an inquiry.",
-      smoothCards: [
-        {
-          title: "Clear sections",
-          text: "Services, proof, videos, and contact details are separated so the page is easy to scan."
-        },
-        {
-          title: "Quick actions",
-          text: "Buttons take people directly to services, WhatsApp, or the inquiry form without confusion."
-        },
-        {
-          title: "Mobile first",
-          text: "Headings, cards, forms, and videos stay readable on small screens."
-        },
-        {
-          title: "Trust first",
-          text: "The page shows services, work proof, and testimonials before asking for a call."
-        }
-      ],
       engineEyebrow: "Campaign plan",
       engineTitle: "Not random posts. A clear growth plan.",
       engineText:
@@ -2877,28 +2851,6 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       reelsOpenCta: "Reel उघडा",
       reelsActiveLabel: "आता चालू",
       reelsPreviewLabel: "Reel preview करा",
-      smoothEyebrow: "Easy browsing",
-      smoothTitle: "Website वाचायला, trust करायला आणि contact करायला simple असली पाहिजे.",
-      smoothText:
-        "बहुतेक visitors mobile वरून website पाहतील. त्यामुळे प्रत्येक section clear ठेवला आहे, जेणेकरून Indian business owners आणि campaign teams service पटकन समजू शकतील.",
-      smoothCards: [
-        {
-          title: "Clear sections",
-          text: "Services, proof, videos आणि contact details वेगळे ठेवले आहेत, त्यामुळे page scan करणे सोपे जाते."
-        },
-        {
-          title: "Quick actions",
-          text: "Buttons लोकांना directly services, WhatsApp किंवा inquiry form कडे घेऊन जातात."
-        },
-        {
-          title: "Mobile first",
-          text: "Small screen वर headings, cards, forms आणि videos readable राहतात."
-        },
-        {
-          title: "Trust first",
-          text: "Call मागण्याआधी page services, work proof आणि testimonials दाखवते."
-        }
-      ],
       engineEyebrow: "Campaign plan",
       engineTitle: "Random posts नाही. Clear growth plan.",
       engineText:
@@ -3971,28 +3923,6 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       reelsOpenCta: "Reel खोलें",
       reelsActiveLabel: "अभी चल रहा है",
       reelsPreviewLabel: "Reel preview करें",
-      smoothEyebrow: "Easy browsing",
-      smoothTitle: "Website पढ़ने, trust करने और contact करने में simple होनी चाहिए.",
-      smoothText:
-        "ज्यादातर visitors mobile पर website खोलेंगे. इसलिए हर section clear रखा गया है, ताकि Indian business owners और campaign teams service जल्दी समझ सकें.",
-      smoothCards: [
-        {
-          title: "Clear sections",
-          text: "Services, proof, videos और contact details अलग रखे गए हैं, इसलिए page scan करना आसान है."
-        },
-        {
-          title: "Quick actions",
-          text: "Buttons लोगों को directly services, WhatsApp या inquiry form तक ले जाते हैं."
-        },
-        {
-          title: "Mobile first",
-          text: "Small screen पर headings, cards, forms और videos readable रहते हैं."
-        },
-        {
-          title: "Trust first",
-          text: "Call मांगने से पहले page services, work proof और testimonials दिखाता है."
-        }
-      ],
       engineEyebrow: "Campaign plan",
       engineTitle: "Random posts नहीं. Clear growth plan.",
       engineText:

@@ -1387,7 +1387,6 @@ h2 span {
 .section-about,
 .section-why,
 .section-engine,
-.section-smooth,
 .section-workflow,
 .section-final {
   background: var(--bg-2);
@@ -1532,67 +1531,6 @@ h2 span {
 .section-intro p:not(.eyebrow) {
   margin-top: 14px;
   font-size: 18px;
-}
-
-.smooth-shell {
-  display: grid;
-  grid-template-columns: 0.95fr 1.05fr;
-  gap: clamp(34px, 6vw, 82px);
-  align-items: end;
-}
-
-.smooth-statement h2 {
-  max-width: 720px;
-  font-size: clamp(34px, 3.2vw, 52px);
-  line-height: 1.14;
-}
-
-.smooth-statement p:not(.eyebrow) {
-  max-width: 620px;
-  margin-top: 22px;
-  color: var(--muted);
-  font-size: 20px;
-}
-
-.smooth-card-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 14px;
-}
-
-.smooth-card {
-  min-height: 210px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 20px;
-  border: 1px solid var(--line-soft);
-  border-radius: var(--radius);
-  background: var(--card-bg);
-  padding: 22px;
-  box-shadow: var(--card-shadow);
-  transition:
-    border-color 160ms ease,
-    box-shadow 160ms ease,
-    transform 160ms ease;
-}
-
-.smooth-card:hover {
-  transform: translateY(-2px);
-  border-color: var(--line);
-  box-shadow: var(--card-shadow-hover);
-}
-
-.smooth-card span {
-  color: color-mix(in srgb, var(--action-blue) 58%, var(--text));
-  font-family: inherit;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1;
-}
-
-.smooth-card p {
-  color: var(--muted);
 }
 
 .engine-shell {
@@ -3773,7 +3711,6 @@ html[data-theme="dark"] .ugc-video-frame:hover {
   .why-grid,
   .lead-contact-grid,
   .contact-grid,
-  .smooth-shell,
   .service-stack-shell,
   .system-heading,
   .workflow-layout,
@@ -3810,7 +3747,6 @@ html[data-theme="dark"] .ugc-video-frame:hover {
 
   .service-grid,
   .engine-grid,
-  .smooth-card-grid,
   .system-capability-grid,
   .category-link-grid,
   .category-combo-grid,
@@ -4115,7 +4051,6 @@ html[data-theme="dark"] .ugc-video-frame:hover {
 
   .service-grid,
   .engine-grid,
-  .smooth-card-grid,
   .system-capability-grid,
   .service-stack-grid,
   .case-study-grid,
@@ -4140,19 +4075,6 @@ html[data-theme="dark"] .ugc-video-frame:hover {
   .lead-contact-grid,
   .form-row {
     grid-template-columns: 1fr;
-  }
-
-  .smooth-statement h2 {
-    font-size: 28px;
-    line-height: 1.18;
-  }
-
-  .smooth-statement p:not(.eyebrow) {
-    font-size: 16px;
-  }
-
-  .smooth-card {
-    min-height: auto;
   }
 
   .engine-loop {

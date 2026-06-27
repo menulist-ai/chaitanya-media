@@ -162,24 +162,6 @@ export default async function HomePage({params}: HomePageProps) {
         </div>
       </section>
 
-      <section className="section section-smooth" id="experience">
-        <div className="container smooth-shell">
-          <div className="smooth-statement">
-            <h2>{home.smoothTitle}</h2>
-            <p>{home.smoothText}</p>
-          </div>
-          <div className="smooth-card-grid">
-            {home.smoothCards.map((card, index) => (
-              <article className="smooth-card" key={card.title}>
-                <span>{String(index + 1).padStart(2, "0")}</span>
-                <h3>{card.title}</h3>
-                <p>{card.text}</p>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <section className="section section-engine" id="about">
         <div className="container engine-shell">
           <div className="section-intro section-intro-center">
