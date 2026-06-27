@@ -304,22 +304,6 @@ export default async function HomePage({params}: HomePageProps) {
         </div>
       </section>
 
-      <section className="section section-clients">
-        <div className="container split-grid">
-          <div>
-            <h2>
-              {home.clientsTitleBefore}
-              <span>{home.clientsTitleAccent}</span>
-            </h2>
-          </div>
-          <div className="client-list">
-            {content.clientTypes.map((client) => (
-              <div key={client}>{client}</div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <section className="section section-results" id="results">
         <div className="container">
           <div className="section-heading">

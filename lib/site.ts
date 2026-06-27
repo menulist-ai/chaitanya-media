@@ -224,9 +224,6 @@ type HomeCopy = {
   whyEyebrow: string;
   whyTitleBefore: string;
   whyTitleAccent: string;
-  clientsEyebrow: string;
-  clientsTitleBefore: string;
-  clientsTitleAccent: string;
   resultsEyebrow: string;
   resultsTitleBefore: string;
   resultsTitleAccent: string;
@@ -1728,9 +1725,6 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       whyEyebrow: "Why choose us",
       whyTitleBefore: "Built for ",
       whyTitleAccent: "Results",
-      clientsEyebrow: "Who we work with",
-      clientsTitleBefore: "Our ",
-      clientsTitleAccent: "Clients",
       resultsEyebrow: "Proof & results",
       resultsTitleBefore: "Numbers That ",
       resultsTitleAccent: "Speak",
@@ -2801,9 +2795,6 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       whyEyebrow: "आम्हाला का निवडावे",
       whyTitleBefore: "Results साठी ",
       whyTitleAccent: "Built",
-      clientsEyebrow: "Who we work with",
-      clientsTitleBefore: "आमचे ",
-      clientsTitleAccent: "Clients",
       resultsEyebrow: "Proof आणि results",
       resultsTitleBefore: "बोलणारे ",
       resultsTitleAccent: "Numbers",
@@ -3873,9 +3864,6 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       whyEyebrow: "हमें क्यों चुनें",
       whyTitleBefore: "Results के लिए ",
       whyTitleAccent: "Built",
-      clientsEyebrow: "Who we work with",
-      clientsTitleBefore: "हमारे ",
-      clientsTitleAccent: "Clients",
       resultsEyebrow: "Proof और results",
       resultsTitleBefore: "बोलते हुए ",
       resultsTitleAccent: "Numbers",
