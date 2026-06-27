@@ -1,0 +1,4804 @@
+{
+  "summary": {
+    "generatedAt": "2026-06-21T12:32:47.957Z",
+    "base": "http://127.0.0.1:3010",
+    "routeCount": 126,
+    "checkedPages": 252,
+    "desktopPages": 126,
+    "mobilePages": 126,
+    "visibleTextLeafCount": 4956,
+    "issueCount": 0,
+    "issueKinds": {},
+    "sampleIssues": []
+  },
+  "rows": [
+    {
+      "route": "/en/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Marketing Services in Pune",
+      "h1": {
+        "tag": "h1",
+        "text": "Best Digital Marketing Agency in Pune That Builds Brands & Wins Elections",
+        "fontSize": 64,
+        "lineHeight": 72.96,
+        "ratio": 1.14,
+        "width": 900,
+        "height": 219,
+        "selectorContext": "section#top.hero > div.container.hero-content > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 24,
+      "issues": []
+    },
+    {
+      "route": "/en/about/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "About Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "A results-driven digital agency for brands and campaigns.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/acceptable-use-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Acceptable Use Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Acceptable Use Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Practical digital marketing and campaign guidance.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/digital-campaign-blueprint/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "How to Plan a 30-Day Digital Campaign Blueprint | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "How to Plan a 30-Day Digital Campaign Blueprint",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/election-digital-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Campaign Planning for Political Leaders | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Digital Campaign Planning for Political Leaders",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/real-estate-lead-generation/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Real Estate Lead Generation Needs More Than Ads | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Lead Generation Needs More Than Ads",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/en/contact/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Contact Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Get your free growth blueprint.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 20,
+      "issues": []
+    },
+    {
+      "route": "/en/cookie-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Cookie Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Cookie Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 40,
+      "issues": []
+    },
+    {
+      "route": "/en/disclaimer/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Disclaimer | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Disclaimer",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 37,
+      "issues": []
+    },
+    {
+      "route": "/en/founder/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Agency Leadership | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Campaign strategy for brands, businesses, and leaders.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/privacy-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Privacy Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Privacy Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 32,
+      "issues": []
+    },
+    {
+      "route": "/en/refund-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Refund Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Refund Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/en/results/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Campaign Results & Proof | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Numbers that speak for campaign experience.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/en/security-compliance/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Security & Compliance | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security & Compliance",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 40,
+      "issues": []
+    },
+    {
+      "route": "/en/security-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Security Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/en/services/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Marketing Services in Pune | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Digital marketing services built for brands, leads, and campaigns.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 20,
+      "issues": []
+    },
+    {
+      "route": "/en/services/booth-survey-voter-analysis/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Booth Survey & Voter Analysis Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Booth Survey & Voter Analysis",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/bulk-sms-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Bulk SMS Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Bulk SMS Marketing",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/content-reel-production/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Content & Reel Production Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Content & Reel Production",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/customized-advertising/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Customized Advertising Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Customized Advertising",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/digital-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Digital Marketing",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/election-management/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Management",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/election-material-supply/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Material Supply Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Material Supply",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/election-software-management/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Software Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Software Management",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/email-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Email Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Email Marketing",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/google-meta-ads/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Google & Meta Ads Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Google & Meta Ads",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/ivr-solutions/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "IVR Solutions Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "IVR Solutions",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/jewellery-luxury-branding/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Jewellery & Luxury Branding Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Jewellery & Luxury Branding",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/led-van-video-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "LED Van & Video Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "LED Van & Video Campaigns",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/missed-call-alert/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Missed Call Alert Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Missed Call Alert",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/print-media-design/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Print Media & Outdoor Design Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Print Media & Outdoor Design",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/real-estate-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Real Estate Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Marketing",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/seo-services/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "SEO Services Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "SEO Services",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/social-media-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Social Media Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Social Media Marketing",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/voice-call-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Voice Call Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voice Call Campaigns",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/voter-slip-booth-kit/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Voter Slip & Booth Kit Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voter Slip & Booth Kit",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/web-designing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Web Designing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Web Designing",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/web-development/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Web Development Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Web Development",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/services/whatsapp-business-api/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "WhatsApp Business API",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/en/terms/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Terms of Service | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Terms of Service",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 35,
+      "issues": []
+    },
+    {
+      "route": "/en/thank-you/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Thank You | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Your request has been received.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 58,
+      "issues": []
+    },
+    {
+      "route": "/hi/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Pune में Digital Marketing Services",
+      "h1": {
+        "tag": "h1",
+        "text": "Pune की Best Digital Marketing Agency जो Brands बनाती है और Elections जीतने में मदद करती है",
+        "fontSize": 64,
+        "lineHeight": 72.96,
+        "ratio": 1.14,
+        "width": 900,
+        "height": 219,
+        "selectorContext": "section#top.hero > div.container.hero-content > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 24,
+      "issues": []
+    },
+    {
+      "route": "/hi/about/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions के बारे में | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands और campaigns के लिए results-driven digital agency.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/acceptable-use-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Acceptable Use Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Acceptable Use Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Practical digital marketing और campaign guidance.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/digital-campaign-blueprint/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "30-Day Digital Campaign Blueprint कैसे plan करें | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "30-Day Digital Campaign Blueprint कैसे plan करें",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/election-digital-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Political Leaders के लिए Digital Campaign Planning | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Political Leaders के लिए Digital Campaign Planning",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/real-estate-lead-generation/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Real Estate Lead Generation को सिर्फ Ads से ज्यादा चाहिए | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Lead Generation को सिर्फ Ads से ज्यादा चाहिए",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/hi/contact/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions Contact | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "अपना free growth blueprint लें.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 20,
+      "issues": []
+    },
+    {
+      "route": "/hi/cookie-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Cookie Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Cookie Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 40,
+      "issues": []
+    },
+    {
+      "route": "/hi/disclaimer/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Disclaimer | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Disclaimer",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 37,
+      "issues": []
+    },
+    {
+      "route": "/hi/founder/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Agency Leadership | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, businesses और leaders के लिए campaign strategy.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/privacy-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Privacy Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Privacy Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 32,
+      "issues": []
+    },
+    {
+      "route": "/hi/refund-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Refund Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Refund Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/hi/results/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Campaign Results और Proof | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Campaign experience बताने वाले numbers.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/hi/security-compliance/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Security & Compliance | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security & Compliance",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 40,
+      "issues": []
+    },
+    {
+      "route": "/hi/security-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Security Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Pune में Digital Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, leads और campaigns के लिए बनी digital marketing services.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 20,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/booth-survey-voter-analysis/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Booth Survey और Voter Analysis Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Booth Survey और Voter Analysis",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/bulk-sms-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "बल्क SMS मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "बल्क SMS मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/content-reel-production/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "कंटेंट और Reel Production Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कंटेंट और Reel Production",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/customized-advertising/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "कस्टमाइज्ड Advertising Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कस्टमाइज्ड Advertising",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/digital-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "डिजिटल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "डिजिटल मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/election-management/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "इलेक्शन मैनेजमेंट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "इलेक्शन मैनेजमेंट",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/election-material-supply/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Material Supply Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Material Supply",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/election-software-management/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Software Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Software Management",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/email-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "ईमेल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ईमेल मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/google-meta-ads/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Google और Meta Ads Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Google और Meta Ads",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/ivr-solutions/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "IVR सॉल्यूशंस Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "IVR सॉल्यूशंस",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/jewellery-luxury-branding/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "ज्वेलरी और लग्जरी ब्रांडिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ज्वेलरी और लग्जरी ब्रांडिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/led-van-video-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "LED Van और Video Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "LED Van और Video Campaigns",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/missed-call-alert/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "मिस्ड कॉल अलर्ट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "मिस्ड कॉल अलर्ट",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/print-media-design/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Print Media और Outdoor Design Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Print Media और Outdoor Design",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/real-estate-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "रियल एस्टेट मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "रियल एस्टेट मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/seo-services/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "SEO सेवाएं Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "SEO सेवाएं",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/social-media-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "सोशल मीडिया मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "सोशल मीडिया मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/voice-call-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "वॉइस कॉल कैंपेन Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वॉइस कॉल कैंपेन",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/voter-slip-booth-kit/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Voter Slip और Booth Kit Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voter Slip और Booth Kit",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/web-designing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "वेब डिजाइनिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डिजाइनिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/web-development/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "वेब डेवलपमेंट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डेवलपमेंट",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/whatsapp-business-api/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "WhatsApp Business API",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/hi/terms/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Terms of Service | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Terms of Service",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 32,
+      "issues": []
+    },
+    {
+      "route": "/hi/thank-you/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Thank You | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "आपकी request received हो गई है.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 53,
+      "issues": []
+    },
+    {
+      "route": "/mr/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Pune मधील Digital Marketing Services",
+      "h1": {
+        "tag": "h1",
+        "text": "Pune मधील Best Digital Marketing Agency जी Brands Build करते आणि Elections जिंकण्यासाठी मदत करते",
+        "fontSize": 64,
+        "lineHeight": 72.96,
+        "ratio": 1.14,
+        "width": 900,
+        "height": 292,
+        "selectorContext": "section#top.hero > div.container.hero-content > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 23,
+      "issues": []
+    },
+    {
+      "route": "/mr/about/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions बद्दल | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands आणि campaigns साठी results-driven digital agency.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/acceptable-use-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Acceptable Use Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Acceptable Use Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Practical digital marketing आणि campaign guidance.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/digital-campaign-blueprint/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "30 दिवसांचा Digital Campaign Blueprint कसा plan करावा | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "30 दिवसांचा Digital Campaign Blueprint कसा plan करावा",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/election-digital-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Political Leaders साठी Digital Campaign Planning | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Political Leaders साठी Digital Campaign Planning",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/real-estate-lead-generation/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Real Estate Lead Generation ला फक्त Ads पुरेसे नसतात | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Lead Generation ला फक्त Ads पुरेसे नसतात",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/mr/contact/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions Contact | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "तुमचा free growth blueprint घ्या.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 20,
+      "issues": []
+    },
+    {
+      "route": "/mr/cookie-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Cookie Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Cookie Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 40,
+      "issues": []
+    },
+    {
+      "route": "/mr/disclaimer/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Disclaimer | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Disclaimer",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 37,
+      "issues": []
+    },
+    {
+      "route": "/mr/founder/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Agency Leadership | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, businesses आणि leaders साठी campaign strategy.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/mr/privacy-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Privacy Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Privacy Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 32,
+      "issues": []
+    },
+    {
+      "route": "/mr/refund-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Refund Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Refund Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/mr/results/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Campaign Results आणि Proof | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Campaign experience दाखवणारे numbers.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 123,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/mr/security-compliance/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Security & Compliance | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security & Compliance",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/mr/security-policy/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Security Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security Policy",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 38,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Pune मधील Digital Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, leads आणि campaigns साठी तयार केलेल्या digital marketing services.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 185,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 5,
+      "visibleTextLeafCount": 20,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/booth-survey-voter-analysis/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Booth Survey आणि Voter Analysis Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Booth Survey आणि Voter Analysis",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/bulk-sms-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "बल्क SMS मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "बल्क SMS मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/content-reel-production/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "कंटेंट आणि Reel Production Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कंटेंट आणि Reel Production",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/customized-advertising/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "कस्टमाइज्ड Advertising Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कस्टमाइज्ड Advertising",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/digital-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "डिजिटल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "डिजिटल मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/election-management/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "निवडणूक व्यवस्थापन Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "निवडणूक व्यवस्थापन",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/election-material-supply/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Material Supply Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Material Supply",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/election-software-management/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Election Software Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Software Management",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/email-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "ईमेल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ईमेल मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/google-meta-ads/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Google आणि Meta Ads Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Google आणि Meta Ads",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/ivr-solutions/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "IVR सोल्यूशन्स Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "IVR सोल्यूशन्स",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/jewellery-luxury-branding/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "ज्वेलरी आणि लक्झरी ब्रँडिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ज्वेलरी आणि लक्झरी ब्रँडिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/led-van-video-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "LED Van आणि Video Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "LED Van आणि Video Campaigns",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/missed-call-alert/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "मिस्ड कॉल अलर्ट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "मिस्ड कॉल अलर्ट",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/print-media-design/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Print Media आणि Outdoor Design Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Print Media आणि Outdoor Design",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/real-estate-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "रिअल इस्टेट मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "रिअल इस्टेट मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/seo-services/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "SEO सेवा Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "SEO सेवा",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/social-media-marketing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "सोशल मीडिया मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "सोशल मीडिया मार्केटिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/voice-call-campaigns/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "व्हॉईस कॉल मोहिमा Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "व्हॉईस कॉल मोहिमा",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/voter-slip-booth-kit/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Voter Slip आणि Booth Kit Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voter Slip आणि Booth Kit",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/web-designing/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "वेब डिझायनिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डिझायनिंग",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/web-development/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "वेब डेव्हलपमेंट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डेव्हलपमेंट",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/whatsapp-business-api/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "WhatsApp Business API",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 19,
+      "issues": []
+    },
+    {
+      "route": "/mr/terms/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Terms of Service | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Terms of Service",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 32,
+      "issues": []
+    },
+    {
+      "route": "/mr/thank-you/",
+      "viewport": "desktop-1440",
+      "status": 200,
+      "title": "Thank You | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "तुमची request received झाली आहे.",
+        "fontSize": 54,
+        "lineHeight": 61.56,
+        "ratio": 1.1400000000000001,
+        "width": 900,
+        "height": 62,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 53,
+      "issues": []
+    },
+    {
+      "route": "/en/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Marketing Services in Pune",
+      "h1": {
+        "tag": "h1",
+        "text": "Best Digital Marketing Agency in Pune That Builds Brands & Wins Elections",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 146,
+        "selectorContext": "section#top.hero > div.container.hero-content > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 22,
+      "issues": []
+    },
+    {
+      "route": "/en/about/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "About Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "A results-driven digital agency for brands and campaigns.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/acceptable-use-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Acceptable Use Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Acceptable Use Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Practical digital marketing and campaign guidance.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/digital-campaign-blueprint/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "How to Plan a 30-Day Digital Campaign Blueprint | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "How to Plan a 30-Day Digital Campaign Blueprint",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/election-digital-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Campaign Planning for Political Leaders | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Digital Campaign Planning for Political Leaders",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/blog/real-estate-lead-generation/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Real Estate Lead Generation Needs More Than Ads | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Lead Generation Needs More Than Ads",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/en/contact/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Contact Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Get your free growth blueprint.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 4,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/cookie-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Cookie Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Cookie Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/disclaimer/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Disclaimer | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Disclaimer",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/founder/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Agency Leadership | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Campaign strategy for brands, businesses, and leaders.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 12,
+      "issues": []
+    },
+    {
+      "route": "/en/privacy-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Privacy Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Privacy Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/en/refund-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Refund Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Refund Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/results/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Campaign Results & Proof | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Numbers that speak for campaign experience.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/security-compliance/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Security & Compliance | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security & Compliance",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/security-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Security Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/services/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Marketing Services in Pune | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Digital marketing services built for brands, leads, and campaigns.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/en/services/booth-survey-voter-analysis/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Booth Survey & Voter Analysis Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Booth Survey & Voter Analysis",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/services/bulk-sms-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Bulk SMS Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Bulk SMS Marketing",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/content-reel-production/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Content & Reel Production Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Content & Reel Production",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/services/customized-advertising/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Customized Advertising Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Customized Advertising",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/digital-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Digital Marketing",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/election-management/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Management",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/election-material-supply/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Material Supply Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Material Supply",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/election-software-management/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Software Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Software Management",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/services/email-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Email Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Email Marketing",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/google-meta-ads/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Google & Meta Ads Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Google & Meta Ads",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/ivr-solutions/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "IVR Solutions Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "IVR Solutions",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/jewellery-luxury-branding/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Jewellery & Luxury Branding Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Jewellery & Luxury Branding",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/services/led-van-video-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "LED Van & Video Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "LED Van & Video Campaigns",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/services/missed-call-alert/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Missed Call Alert Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Missed Call Alert",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/print-media-design/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Print Media & Outdoor Design Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Print Media & Outdoor Design",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/en/services/real-estate-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Real Estate Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Marketing",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/seo-services/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "SEO Services Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "SEO Services",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/social-media-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Social Media Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Social Media Marketing",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/voice-call-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Voice Call Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voice Call Campaigns",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/voter-slip-booth-kit/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Voter Slip & Booth Kit Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voter Slip & Booth Kit",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/web-designing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Web Designing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Web Designing",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/web-development/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Web Development Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Web Development",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/services/whatsapp-business-api/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "WhatsApp Business API",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/en/terms/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Terms of Service | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Terms of Service",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/en/thank-you/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Thank You | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Your request has been received.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 22,
+      "issues": []
+    },
+    {
+      "route": "/hi/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Pune में Digital Marketing Services",
+      "h1": {
+        "tag": "h1",
+        "text": "Pune की Best Digital Marketing Agency जो Brands बनाती है और Elections जीतने में मदद करती है",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 183,
+        "selectorContext": "section#top.hero > div.container.hero-content > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 22,
+      "issues": []
+    },
+    {
+      "route": "/hi/about/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions के बारे में | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands और campaigns के लिए results-driven digital agency.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 4,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/hi/acceptable-use-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Acceptable Use Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Acceptable Use Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Practical digital marketing और campaign guidance.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/digital-campaign-blueprint/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "30-Day Digital Campaign Blueprint कैसे plan करें | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "30-Day Digital Campaign Blueprint कैसे plan करें",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/election-digital-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Political Leaders के लिए Digital Campaign Planning | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Political Leaders के लिए Digital Campaign Planning",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/blog/real-estate-lead-generation/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Real Estate Lead Generation को सिर्फ Ads से ज्यादा चाहिए | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Lead Generation को सिर्फ Ads से ज्यादा चाहिए",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/hi/contact/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions Contact | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "अपना free growth blueprint लें.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 4,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/cookie-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Cookie Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Cookie Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/hi/disclaimer/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Disclaimer | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Disclaimer",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/hi/founder/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Agency Leadership | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, businesses और leaders के लिए campaign strategy.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 12,
+      "issues": []
+    },
+    {
+      "route": "/hi/privacy-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Privacy Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Privacy Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/hi/refund-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Refund Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Refund Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/hi/results/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Campaign Results और Proof | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Campaign experience बताने वाले numbers.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/hi/security-compliance/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Security & Compliance | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security & Compliance",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/hi/security-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Security Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Pune में Digital Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, leads और campaigns के लिए बनी digital marketing services.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 146,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 14,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/booth-survey-voter-analysis/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Booth Survey और Voter Analysis Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Booth Survey और Voter Analysis",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/bulk-sms-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "बल्क SMS मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "बल्क SMS मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/content-reel-production/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "कंटेंट और Reel Production Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कंटेंट और Reel Production",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/customized-advertising/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "कस्टमाइज्ड Advertising Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कस्टमाइज्ड Advertising",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/digital-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "डिजिटल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "डिजिटल मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/election-management/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "इलेक्शन मैनेजमेंट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "इलेक्शन मैनेजमेंट",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/election-material-supply/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Material Supply Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Material Supply",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/election-software-management/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Software Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Software Management",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/email-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "ईमेल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ईमेल मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/google-meta-ads/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Google और Meta Ads Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Google और Meta Ads",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/ivr-solutions/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "IVR सॉल्यूशंस Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "IVR सॉल्यूशंस",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/jewellery-luxury-branding/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "ज्वेलरी और लग्जरी ब्रांडिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ज्वेलरी और लग्जरी ब्रांडिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/led-van-video-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "LED Van और Video Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "LED Van और Video Campaigns",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/missed-call-alert/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "मिस्ड कॉल अलर्ट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "मिस्ड कॉल अलर्ट",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/print-media-design/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Print Media और Outdoor Design Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Print Media और Outdoor Design",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/real-estate-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "रियल एस्टेट मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "रियल एस्टेट मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/seo-services/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "SEO सेवाएं Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "SEO सेवाएं",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/social-media-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "सोशल मीडिया मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "सोशल मीडिया मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/voice-call-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "वॉइस कॉल कैंपेन Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वॉइस कॉल कैंपेन",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/voter-slip-booth-kit/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Voter Slip और Booth Kit Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voter Slip और Booth Kit",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/web-designing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "वेब डिजाइनिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डिजाइनिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/web-development/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "वेब डेवलपमेंट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डेवलपमेंट",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/hi/services/whatsapp-business-api/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "WhatsApp Business API",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/hi/terms/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Terms of Service | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Terms of Service",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/hi/thank-you/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Thank You | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "आपकी request received हो गई है.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 22,
+      "issues": []
+    },
+    {
+      "route": "/mr/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Pune मधील Digital Marketing Services",
+      "h1": {
+        "tag": "h1",
+        "text": "Pune मधील Best Digital Marketing Agency जी Brands Build करते आणि Elections जिंकण्यासाठी मदत करते",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 183,
+        "selectorContext": "section#top.hero > div.container.hero-content > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 22,
+      "issues": []
+    },
+    {
+      "route": "/mr/about/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions बद्दल | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands आणि campaigns साठी results-driven digital agency.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 4,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/acceptable-use-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Acceptable Use Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Acceptable Use Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Practical digital marketing आणि campaign guidance.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/digital-campaign-blueprint/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "30 दिवसांचा Digital Campaign Blueprint कसा plan करावा | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "30 दिवसांचा Digital Campaign Blueprint कसा plan करावा",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/election-digital-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Political Leaders साठी Digital Campaign Planning | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Political Leaders साठी Digital Campaign Planning",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/blog/real-estate-lead-generation/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Real Estate Lead Generation ला फक्त Ads पुरेसे नसतात | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Real Estate Lead Generation ला फक्त Ads पुरेसे नसतात",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 18,
+      "issues": []
+    },
+    {
+      "route": "/mr/contact/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions Contact | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "तुमचा free growth blueprint घ्या.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 4,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/cookie-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Cookie Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Cookie Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/disclaimer/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Disclaimer | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Disclaimer",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/mr/founder/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Agency Leadership | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, businesses आणि leaders साठी campaign strategy.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 110,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 12,
+      "issues": []
+    },
+    {
+      "route": "/mr/privacy-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Privacy Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Privacy Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/mr/refund-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Refund Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Refund Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/results/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Campaign Results आणि Proof | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Campaign experience दाखवणारे numbers.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/security-compliance/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Security & Compliance | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security & Compliance",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/security-policy/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Security Policy | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Security Policy",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Pune मधील Digital Marketing Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Brands, leads आणि campaigns साठी तयार केलेल्या digital marketing services.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 146,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 3,
+      "visibleTextLeafCount": 15,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/booth-survey-voter-analysis/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Booth Survey आणि Voter Analysis Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Booth Survey आणि Voter Analysis",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/bulk-sms-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "बल्क SMS मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "बल्क SMS मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/content-reel-production/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "कंटेंट आणि Reel Production Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कंटेंट आणि Reel Production",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/customized-advertising/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "कस्टमाइज्ड Advertising Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "कस्टमाइज्ड Advertising",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/digital-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "डिजिटल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "डिजिटल मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/election-management/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "निवडणूक व्यवस्थापन Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "निवडणूक व्यवस्थापन",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/election-material-supply/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Material Supply Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Material Supply",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/election-software-management/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Election Software Management Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Election Software Management",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/email-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "ईमेल मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ईमेल मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/google-meta-ads/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Google आणि Meta Ads Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Google आणि Meta Ads",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/ivr-solutions/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "IVR सोल्यूशन्स Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "IVR सोल्यूशन्स",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/jewellery-luxury-branding/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "ज्वेलरी आणि लक्झरी ब्रँडिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "ज्वेलरी आणि लक्झरी ब्रँडिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/led-van-video-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "LED Van आणि Video Campaigns Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "LED Van आणि Video Campaigns",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/missed-call-alert/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "मिस्ड कॉल अलर्ट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "मिस्ड कॉल अलर्ट",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/print-media-design/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Print Media आणि Outdoor Design Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Print Media आणि Outdoor Design",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/real-estate-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "रिअल इस्टेट मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "रिअल इस्टेट मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/seo-services/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "SEO सेवा Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "SEO सेवा",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/social-media-marketing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "सोशल मीडिया मार्केटिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "सोशल मीडिया मार्केटिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/voice-call-campaigns/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "व्हॉईस कॉल मोहिमा Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "व्हॉईस कॉल मोहिमा",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/voter-slip-booth-kit/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Voter Slip आणि Booth Kit Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Voter Slip आणि Booth Kit",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/web-designing/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "वेब डिझायनिंग Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डिझायनिंग",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/web-development/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "वेब डेव्हलपमेंट Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "वेब डेव्हलपमेंट",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 17,
+      "issues": []
+    },
+    {
+      "route": "/mr/services/whatsapp-business-api/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "WhatsApp Business API",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 2,
+      "visibleTextLeafCount": 16,
+      "issues": []
+    },
+    {
+      "route": "/mr/terms/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Terms of Service | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "Terms of Service",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 37,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 13,
+      "issues": []
+    },
+    {
+      "route": "/mr/thank-you/",
+      "viewport": "mobile-390",
+      "status": 200,
+      "title": "Thank You | Chaitanya Digital Solutions",
+      "h1": {
+        "tag": "h1",
+        "text": "तुमची request received झाली आहे.",
+        "fontSize": 31,
+        "lineHeight": 36.58,
+        "ratio": 1.18,
+        "width": 362,
+        "height": 73,
+        "selectorContext": "section.page-hero > div.container > h1"
+      },
+      "headingCount": 1,
+      "visibleTextLeafCount": 22,
+      "issues": []
+    }
+  ]
+}

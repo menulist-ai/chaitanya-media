@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Chaitanya Media icon">
+  <title>Chaitanya Media icon</title>
+  <defs>
+    <linearGradient id="lime" x1="120" y1="95" x2="390" y2="410" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CFEA69"/>
+      <stop offset="0.55" stop-color="#C9E265"/>
+      <stop offset="1" stop-color="#AFCB21"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#lime)" stroke-linecap="butt" stroke-linejoin="round">
+    <path d="M 332.17 137.83 A 144 144 0 1 0 332.17 374.17" stroke-width="62"/>
+    <path d="M 326.65 220.00 A 76 76 0 0 1 326.65 292.00" stroke-width="30"/>
+    <path d="M 374.30 183.00 A 124 124 0 0 1 374.30 329.00" stroke-width="30"/>
+    <path d="M 416.48 146.50 A 180 180 0 0 1 416.48 365.50" stroke-width="30"/>
+  </g>
+  <circle cx="240" cy="256" r="45" fill="#121417"/>
+</svg>

@@ -1,0 +1,345 @@
+{
+  "imgs": [
+    {
+      "src": "https://gold-star-growth.lovable.app/assets/logo-gkfhKHcH.png",
+      "alt": "Chaitanya Digital Solutions logo",
+      "width": 1365,
+      "height": 768
+    },
+    {
+      "src": "https://gold-star-growth.lovable.app/assets/hero-bg-BCbZBG7v.jpg",
+      "alt": "",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "src": "https://gold-star-growth.lovable.app/assets/logo-gkfhKHcH.png",
+      "alt": "Chaitanya Digital Solutions logo",
+      "width": 1365,
+      "height": 768
+    }
+  ],
+  "bg": [
+    {
+      "tag": "A",
+      "text": "Get Free Consultation",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(to top, rgb(8, 12, 22), rgba(0, 0, 0, 0), rgba(8, 12, 22, 0.5))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Pune",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Builds Brands",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "A",
+      "text": "Get Free Strategy Call",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Digital Agency",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Do",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Industries",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Results",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Clients",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(to right, rgba(244, 185, 37, 0.05), rgba(0, 0, 0, 0), rgba(102, 51, 204, 0.05))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Speak",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "10M+",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "100+",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "DIV",
+      "text": "Pan India",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Growth Blueprint",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Submit Request",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "SPAN",
+      "text": "Brand or Campaign?",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(242, 178, 90))"
+    },
+    {
+      "tag": "A",
+      "text": "Book Free Consultation",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "bg": "linear-gradient(135deg, rgb(244, 185, 37), rgb(212, 131, 17))"
+    }
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgba(0, 0, 0, 0)",
+    "rgb(32, 40, 60)",
+    "rgb(239, 236, 231)",
+    "rgb(8, 12, 22)",
+    "rgba(8, 12, 22, 0.8)",
+    "rgba(244, 185, 37, 0.1)",
+    "rgb(123, 135, 157)",
+    "rgba(8, 12, 22, 0.7)",
+    "rgba(244, 185, 37, 0.05)",
+    "rgba(244, 185, 37, 0.3)",
+    "rgb(244, 185, 37)",
+    "rgb(15, 21, 36)",
+    "rgba(25, 31, 46, 0.5)"
+  ]
+}

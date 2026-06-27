@@ -1,0 +1,2418 @@
+[
+  {
+    "route": "/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Chaitanya Digital Solutions | Digital Marketing Agency in Pune",
+    "h1s": [
+      "Best Digital Marketing Agency in Pune That Builds Brands & Wins Elections"
+    ],
+    "h2Count": 8,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 12,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 4387
+  },
+  {
+    "route": "/services/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Digital Marketing Services in Pune | Chaitanya Digital Solutions",
+    "h1s": [
+      "Digital marketing services built for brands, leads, and campaigns."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 7,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2758
+  },
+  {
+    "route": "/services/bulk-sms-marketing/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Bulk SMS Marketing Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Bulk SMS Marketing"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2602
+  },
+  {
+    "route": "/services/whatsapp-business-api/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "WhatsApp Business API"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2622
+  },
+  {
+    "route": "/services/election-management/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Election Management Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Election Management"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2614
+  },
+  {
+    "route": "/services/jewellery-luxury-branding/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Jewellery & Luxury Branding Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Jewellery & Luxury Branding"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2646
+  },
+  {
+    "route": "/results/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Campaign Results & Proof | Chaitanya Digital Solutions",
+    "h1s": [
+      "Numbers that speak for campaign experience."
+    ],
+    "h2Count": 4,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1701
+  },
+  {
+    "route": "/about/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "About Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+    "h1s": [
+      "A results-driven digital agency for brands and campaigns."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1064
+  },
+  {
+    "route": "/founder/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Agency Leadership | Chaitanya Digital Solutions",
+    "h1s": [
+      "Campaign strategy for brands, businesses, and leaders."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1171
+  },
+  {
+    "route": "/blog/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+    "h1s": [
+      "Practical digital marketing and campaign guidance."
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1694
+  },
+  {
+    "route": "/blog/digital-campaign-blueprint/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "How to Plan a 30-Day Digital Campaign Blueprint | Chaitanya Digital Solutions",
+    "h1s": [
+      "How to Plan a 30-Day Digital Campaign Blueprint"
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1267
+  },
+  {
+    "route": "/blog/real-estate-lead-generation/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Real Estate Lead Generation Needs More Than Ads | Chaitanya Digital Solutions",
+    "h1s": [
+      "Real Estate Lead Generation Needs More Than Ads"
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1122
+  },
+  {
+    "route": "/contact/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Contact Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+    "h1s": [
+      "Get your free growth blueprint."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 7,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1602
+  },
+  {
+    "route": "/privacy-policy/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Privacy Policy | Chaitanya Digital Solutions",
+    "h1s": [
+      "Privacy Policy"
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 766
+  },
+  {
+    "route": "/terms/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Terms of Service | Chaitanya Digital Solutions",
+    "h1s": [
+      "Terms of Service"
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 719
+  },
+  {
+    "route": "/thank-you/",
+    "viewport": "desktop",
+    "status": 200,
+    "title": "Thank You | Chaitanya Digital Solutions",
+    "h1s": [
+      "Your request has been received."
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "About",
+        "width": 43,
+        "height": 22
+      },
+      {
+        "text": "Services",
+        "width": 61,
+        "height": 22
+      },
+      {
+        "text": "Why Us",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Results",
+        "width": 53,
+        "height": 22
+      },
+      {
+        "text": "Contact",
+        "width": 56,
+        "height": 22
+      },
+      {
+        "text": "+91 99999 99999",
+        "width": 336,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 424
+  },
+  {
+    "route": "/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Chaitanya Digital Solutions | Digital Marketing Agency in Pune",
+    "h1s": [
+      "Best Digital Marketing Agency in Pune That Builds Brands & Wins Elections"
+    ],
+    "h2Count": 8,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 12,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 4349
+  },
+  {
+    "route": "/services/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Digital Marketing Services in Pune | Chaitanya Digital Solutions",
+    "h1s": [
+      "Digital marketing services built for brands, leads, and campaigns."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 7,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2720
+  },
+  {
+    "route": "/services/bulk-sms-marketing/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Bulk SMS Marketing Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Bulk SMS Marketing"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2564
+  },
+  {
+    "route": "/services/whatsapp-business-api/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "WhatsApp Business API"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2584
+  },
+  {
+    "route": "/services/election-management/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Election Management Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Election Management"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2576
+  },
+  {
+    "route": "/services/jewellery-luxury-branding/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Jewellery & Luxury Branding Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Jewellery & Luxury Branding"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2608
+  },
+  {
+    "route": "/results/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Campaign Results & Proof | Chaitanya Digital Solutions",
+    "h1s": [
+      "Numbers that speak for campaign experience."
+    ],
+    "h2Count": 4,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1663
+  },
+  {
+    "route": "/about/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "About Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+    "h1s": [
+      "A results-driven digital agency for brands and campaigns."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1026
+  },
+  {
+    "route": "/founder/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Agency Leadership | Chaitanya Digital Solutions",
+    "h1s": [
+      "Campaign strategy for brands, businesses, and leaders."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1133
+  },
+  {
+    "route": "/blog/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+    "h1s": [
+      "Practical digital marketing and campaign guidance."
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1656
+  },
+  {
+    "route": "/blog/digital-campaign-blueprint/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "How to Plan a 30-Day Digital Campaign Blueprint | Chaitanya Digital Solutions",
+    "h1s": [
+      "How to Plan a 30-Day Digital Campaign Blueprint"
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1229
+  },
+  {
+    "route": "/blog/real-estate-lead-generation/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Real Estate Lead Generation Needs More Than Ads | Chaitanya Digital Solutions",
+    "h1s": [
+      "Real Estate Lead Generation Needs More Than Ads"
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1084
+  },
+  {
+    "route": "/contact/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Contact Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+    "h1s": [
+      "Get your free growth blueprint."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 7,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1564
+  },
+  {
+    "route": "/privacy-policy/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Privacy Policy | Chaitanya Digital Solutions",
+    "h1s": [
+      "Privacy Policy"
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 728
+  },
+  {
+    "route": "/terms/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Terms of Service | Chaitanya Digital Solutions",
+    "h1s": [
+      "Terms of Service"
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 681
+  },
+  {
+    "route": "/thank-you/",
+    "viewport": "tablet",
+    "status": 200,
+    "title": "Thank You | Chaitanya Digital Solutions",
+    "h1s": [
+      "Your request has been received."
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 340,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 386
+  },
+  {
+    "route": "/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Chaitanya Digital Solutions | Digital Marketing Agency in Pune",
+    "h1s": [
+      "Best Digital Marketing Agency in Pune That Builds Brands & Wins Elections"
+    ],
+    "h2Count": 8,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 12,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 4327
+  },
+  {
+    "route": "/services/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Digital Marketing Services in Pune | Chaitanya Digital Solutions",
+    "h1s": [
+      "Digital marketing services built for brands, leads, and campaigns."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 7,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2697
+  },
+  {
+    "route": "/services/bulk-sms-marketing/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Bulk SMS Marketing Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Bulk SMS Marketing"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2541
+  },
+  {
+    "route": "/services/whatsapp-business-api/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "WhatsApp Business API Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "WhatsApp Business API"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2561
+  },
+  {
+    "route": "/services/election-management/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Election Management Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Election Management"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2553
+  },
+  {
+    "route": "/services/jewellery-luxury-branding/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Jewellery & Luxury Branding Services | Chaitanya Digital Solutions",
+    "h1s": [
+      "Jewellery & Luxury Branding"
+    ],
+    "h2Count": 7,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 2585
+  },
+  {
+    "route": "/results/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Campaign Results & Proof | Chaitanya Digital Solutions",
+    "h1s": [
+      "Numbers that speak for campaign experience."
+    ],
+    "h2Count": 4,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1640
+  },
+  {
+    "route": "/about/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "About Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+    "h1s": [
+      "A results-driven digital agency for brands and campaigns."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 6,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1003
+  },
+  {
+    "route": "/founder/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Agency Leadership | Chaitanya Digital Solutions",
+    "h1s": [
+      "Campaign strategy for brands, businesses, and leaders."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1110
+  },
+  {
+    "route": "/blog/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Digital Marketing Blog | Chaitanya Digital Solutions",
+    "h1s": [
+      "Practical digital marketing and campaign guidance."
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1633
+  },
+  {
+    "route": "/blog/digital-campaign-blueprint/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "How to Plan a 30-Day Digital Campaign Blueprint | Chaitanya Digital Solutions",
+    "h1s": [
+      "How to Plan a 30-Day Digital Campaign Blueprint"
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1206
+  },
+  {
+    "route": "/blog/real-estate-lead-generation/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Real Estate Lead Generation Needs More Than Ads | Chaitanya Digital Solutions",
+    "h1s": [
+      "Real Estate Lead Generation Needs More Than Ads"
+    ],
+    "h2Count": 3,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 5,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1061
+  },
+  {
+    "route": "/contact/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Contact Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+    "h1s": [
+      "Get your free growth blueprint."
+    ],
+    "h2Count": 2,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 7,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 1541
+  },
+  {
+    "route": "/privacy-policy/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Privacy Policy | Chaitanya Digital Solutions",
+    "h1s": [
+      "Privacy Policy"
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 705
+  },
+  {
+    "route": "/terms/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Terms of Service | Chaitanya Digital Solutions",
+    "h1s": [
+      "Terms of Service"
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 658
+  },
+  {
+    "route": "/thank-you/",
+    "viewport": "mobile",
+    "status": 200,
+    "title": "Thank You | Chaitanya Digital Solutions",
+    "h1s": [
+      "Your request has been received."
+    ],
+    "h2Count": 0,
+    "overflow": 0,
+    "badImages": [],
+    "emptyLinks": [],
+    "emptyButtons": [],
+    "unlabeledFields": [],
+    "focusableSmall": [
+      {
+        "text": "+91 99999 99999",
+        "width": 333,
+        "height": 26
+      },
+      {
+        "text": "Privacy",
+        "width": 44,
+        "height": 21
+      },
+      {
+        "text": "Terms",
+        "width": 37,
+        "height": 21
+      },
+      {
+        "text": "Disclaimer",
+        "width": 63,
+        "height": 21
+      }
+    ],
+    "overflowEls": [],
+    "ctas": 4,
+    "oldPositioning": false,
+    "sourceTerms": true,
+    "textLength": 363
+  }
+]

@@ -1,0 +1,213 @@
+{
+  "generatedAt": "2026-06-21T04:51:14.232Z",
+  "base": "http://127.0.0.1:3010",
+  "routeCount": 129,
+  "routeCounts": {
+    "en": 43,
+    "hi": 43,
+    "mr": 43
+  },
+  "checkedPages": 9,
+  "issueCount": 0,
+  "issues": [],
+  "checks": [
+    {
+      "locale": "en",
+      "pageName": "home",
+      "route": "/en/",
+      "status": 200,
+      "title": "Digital Marketing Services in Pune",
+      "h1": "Best Digital Marketing Agency in Pune That Builds Brands & Wins Elections",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 3,
+        "portfolio": 4,
+        "testimonials": 3,
+        "credentials": 5,
+        "compliance": 4,
+        "gallery": 0,
+        "campaignMaterials": 0,
+        "formRadios": 3,
+        "consentChecks": 0
+      }
+    },
+    {
+      "locale": "en",
+      "pageName": "results",
+      "route": "/en/results/",
+      "status": 200,
+      "title": "Campaign Results & Proof | Chaitanya Digital Solutions",
+      "h1": "Numbers that speak for campaign experience.",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 3,
+        "portfolio": 4,
+        "testimonials": 3,
+        "credentials": 5,
+        "compliance": 4,
+        "gallery": 2,
+        "campaignMaterials": 2,
+        "formRadios": 0,
+        "consentChecks": 0
+      }
+    },
+    {
+      "locale": "en",
+      "pageName": "contact",
+      "route": "/en/contact/",
+      "status": 200,
+      "title": "Contact Chaitanya Digital Solutions | Chaitanya Digital Solutions",
+      "h1": "Get your free growth blueprint.",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 0,
+        "portfolio": 0,
+        "testimonials": 0,
+        "credentials": 0,
+        "compliance": 0,
+        "gallery": 0,
+        "campaignMaterials": 0,
+        "formRadios": 3,
+        "consentChecks": 1
+      }
+    },
+    {
+      "locale": "mr",
+      "pageName": "home",
+      "route": "/mr/",
+      "status": 200,
+      "title": "Pune मधील Digital Marketing Services",
+      "h1": "Pune मधील Best Digital Marketing Agency जी Brands Build करते आणि Elections जिंकण्यासाठी मदत करते",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 3,
+        "portfolio": 4,
+        "testimonials": 3,
+        "credentials": 5,
+        "compliance": 4,
+        "gallery": 0,
+        "campaignMaterials": 0,
+        "formRadios": 3,
+        "consentChecks": 0
+      }
+    },
+    {
+      "locale": "mr",
+      "pageName": "results",
+      "route": "/mr/results/",
+      "status": 200,
+      "title": "Campaign Results आणि Proof | Chaitanya Digital Solutions",
+      "h1": "Campaign experience दाखवणारे numbers.",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 3,
+        "portfolio": 4,
+        "testimonials": 3,
+        "credentials": 5,
+        "compliance": 4,
+        "gallery": 2,
+        "campaignMaterials": 2,
+        "formRadios": 0,
+        "consentChecks": 0
+      }
+    },
+    {
+      "locale": "mr",
+      "pageName": "contact",
+      "route": "/mr/contact/",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions Contact | Chaitanya Digital Solutions",
+      "h1": "तुमचा free growth blueprint घ्या.",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 0,
+        "portfolio": 0,
+        "testimonials": 0,
+        "credentials": 0,
+        "compliance": 0,
+        "gallery": 0,
+        "campaignMaterials": 0,
+        "formRadios": 3,
+        "consentChecks": 1
+      }
+    },
+    {
+      "locale": "hi",
+      "pageName": "home",
+      "route": "/hi/",
+      "status": 200,
+      "title": "Pune में Digital Marketing Services",
+      "h1": "Pune की Best Digital Marketing Agency जो Brands बनाती है और Elections जीतने में मदद करती है",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 3,
+        "portfolio": 4,
+        "testimonials": 3,
+        "credentials": 5,
+        "compliance": 4,
+        "gallery": 0,
+        "campaignMaterials": 0,
+        "formRadios": 3,
+        "consentChecks": 0
+      }
+    },
+    {
+      "locale": "hi",
+      "pageName": "results",
+      "route": "/hi/results/",
+      "status": 200,
+      "title": "Campaign Results और Proof | Chaitanya Digital Solutions",
+      "h1": "Campaign experience बताने वाले numbers.",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 3,
+        "portfolio": 4,
+        "testimonials": 3,
+        "credentials": 5,
+        "compliance": 4,
+        "gallery": 2,
+        "campaignMaterials": 2,
+        "formRadios": 0,
+        "consentChecks": 0
+      }
+    },
+    {
+      "locale": "hi",
+      "pageName": "contact",
+      "route": "/hi/contact/",
+      "status": 200,
+      "title": "Chaitanya Digital Solutions Contact | Chaitanya Digital Solutions",
+      "h1": "अपना free growth blueprint लें.",
+      "overflow": false,
+      "missingText": [],
+      "console": [],
+      "counts": {
+        "caseStudies": 0,
+        "portfolio": 0,
+        "testimonials": 0,
+        "credentials": 0,
+        "compliance": 0,
+        "gallery": 0,
+        "campaignMaterials": 0,
+        "formRadios": 3,
+        "consentChecks": 1
+      }
+    }
+  ]
+}
