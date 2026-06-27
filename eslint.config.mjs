@@ -11,7 +11,7 @@ const eslintConfig = [
       "out/**",
       "next-env.d.ts",
       "docs/**",
-      "chaitanya-digital-solutions-chatgpt-transcript.md"
+      "chaitanya-media-chatgpt-transcript.md"
     ]
   }
 ];
