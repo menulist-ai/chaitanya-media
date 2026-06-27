@@ -8,11 +8,14 @@ export const defaultLocale = routing.defaultLocale;
 
 export const instagramProfileUrl = "https://www.instagram.com/marketing_with_shivam_/";
 
+const defaultSiteUrl = "https://chaitanya-media.vercel.app";
+const configuredSiteUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/+$/, "");
+
 export const siteBase = {
   name: "Chaitanya Media",
   shortName: "Chaitanya Media",
   tagline: "Campaigns that reach. Marketing that delivers.",
-  url: "https://chaitanyadigitalsolutions.com",
+  url: configuredSiteUrl || defaultSiteUrl,
   email: "hello@chaitanyadigitalsolutions.com",
   phone: "+918805385779",
   phoneDisplay: "+91 88053 85779",
@@ -199,6 +202,13 @@ type HomeCopy = {
     after: string;
   };
   heroCopy: string;
+  heroServiceLabel: string;
+  heroServiceHighlights: {label: string; slug: string}[];
+  heroDemandEyebrow: string;
+  heroDemandTitle: string;
+  heroDemandText: string;
+  heroDemandCta: string;
+  heroDemandItems: {title: string; text: string; slug: string}[];
   primaryCta: string;
   secondaryCta: string;
   aboutEyebrow: string;
@@ -1356,11 +1366,46 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         text: "Real service-menu creative showing election outreach, print, survey, technical, and field material capabilities."
       },
       {
+        title: "Real estate project promotion",
+        category: "Real estate marketing",
+        image: "/images/campaign-materials/sk-group-real-estate-promotion.jpg",
+        alt: "SK Group Akshaya Tritiya real estate promotion creative for a 1 BHK apartment project.",
+        text: "Property campaign creative showing pricing, ready possession messaging, amenities, location, and phone-led inquiry flow."
+      },
+      {
+        title: "School admission campaign",
+        category: "Education marketing",
+        image: "/images/campaign-materials/samartha-classes-admission-banner.jpg",
+        alt: "Samartha Classes admission open banner showing features, grade range, and address details.",
+        text: "Education admission creative for classes, batches, faculty points, digital classrooms, weekly tests, and limited-seat messaging."
+      },
+      {
+        title: "Political birthday greeting",
+        category: "Political branding",
+        image: "/images/campaign-materials/political-birthday-greeting-creative.jpg",
+        alt: "Political birthday greeting creative designed for a public leader with Chaitanya Media branding.",
+        text: "Leader-focused greeting creative useful for social posts, local recognition, supporter engagement, and campaign recall."
+      },
+      {
         title: "Voter outreach banner",
         category: "Campaign material",
         image: "/images/campaign-materials/voter-outreach-banner.jpg",
         alt: "Voter outreach facilities banner from Chaitanya Media.",
         text: "Promotion banner showing SMS, voice call, WhatsApp, election software, and voter slip printer support."
+      },
+      {
+        title: "Gudi Padwa festival creative",
+        category: "Festival campaign",
+        image: "/images/campaign-materials/gudi-padwa-festival-creative.jpg",
+        alt: "Gudi Padwa festival creative with fort illustration and Chaitanya Media branding.",
+        text: "Festival-led social creative that keeps the brand visible during local cultural moments and seasonal campaigns."
+      },
+      {
+        title: "Akshaya Tritiya brand post",
+        category: "Festival campaign",
+        image: "/images/campaign-materials/akshaya-tritiya-brand-creative.jpg",
+        alt: "Akshaya Tritiya digital growth festival creative with Chaitanya Media branding.",
+        text: "Clean festival post example for brand visibility, greeting campaigns, and social media calendar planning."
       }
     ],
     testimonialSlots: [
@@ -1607,16 +1652,61 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       ]
     },
     home: {
-      heroBadge: "Trusted by 100+ Brands & Leaders",
+      heroBadge: "For brands, local businesses, events & elections",
       heroTitle: {
-        before: "Best Digital Marketing Agency in ",
-        accentOne: "Pune",
-        middle: " That ",
-        accentTwo: "Builds Brands",
-        after: " & Wins Elections"
+        before: "Marketing that ",
+        accentOne: "Builds Brands",
+        middle: " & ",
+        accentTwo: "Wins Elections",
+        after: " in Pune"
       },
       heroCopy:
         "Websites, search visibility, ads, reels, SMS, WhatsApp, voice calls, invitations, admissions, and election promotion for Pune businesses.",
+      heroServiceLabel: "Popular work people ask for",
+      heroServiceHighlights: [
+        {label: "Website", slug: "web-designing"},
+        {label: "Instagram / Facebook", slug: "social-media-marketing"},
+        {label: "Google Ads", slug: "google-meta-ads"},
+        {label: "Election Campaign", slug: "election-management"},
+        {label: "Bulk SMS", slug: "bulk-sms-marketing"},
+        {label: "WhatsApp Promotion", slug: "whatsapp-business-api"},
+        {label: "Voice Call", slug: "voice-call-campaigns"},
+        {label: "Reels / Video", slug: "content-reel-production"},
+        {label: "School Admission", slug: "school-admission-campaigns"},
+        {label: "Real Estate Leads", slug: "real-estate-marketing"}
+      ],
+      heroDemandEyebrow: "Most requested work",
+      heroDemandTitle: "Choose the job. We suggest the right mix.",
+      heroDemandText:
+        "Clients usually do not know the service name. They know the result they need.",
+      heroDemandCta: "Discuss my requirement",
+      heroDemandItems: [
+        {
+          title: "Election campaign setup",
+          text: "SMS, WhatsApp, voice, voter slip, booth kit, and field material",
+          slug: "election-management"
+        },
+        {
+          title: "Website + Google visibility",
+          text: "Website pages, SEO, Google presence, and inquiry route",
+          slug: "web-development"
+        },
+        {
+          title: "Reels + social ads",
+          text: "Short videos, posts, Instagram, Facebook, and lead campaigns",
+          slug: "content-reel-production"
+        },
+        {
+          title: "Bulk SMS + WhatsApp follow-up",
+          text: "Fast awareness, reminders, offers, and response capture",
+          slug: "bulk-sms-marketing"
+        },
+        {
+          title: "Real estate inquiry campaign",
+          text: "Project promotion, local targeting, creatives, and follow-up",
+          slug: "real-estate-marketing"
+        }
+      ],
       primaryCta: "Talk to Chaitanya Media",
       secondaryCta: "View Services",
       aboutEyebrow: "Who we are",
@@ -1653,7 +1743,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         businessNamePlaceholder: "Brand, candidate, or organization",
         phone: "Phone *",
         phonePlaceholder: "+91 99999 99999",
-        email: "ईमेल",
+        email: "Email",
         emailPlaceholder: "you@email.com",
         location: "Target location",
         locationPlaceholder: "City, area, ward, or constituency",
@@ -2367,11 +2457,46 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         text: "Election outreach, print, survey, technical आणि field material capabilities दाखवणारी real service-menu creative."
       },
       {
+        title: "Real estate project promotion",
+        category: "Real estate marketing",
+        image: "/images/campaign-materials/sk-group-real-estate-promotion.jpg",
+        alt: "SK Group Akshaya Tritiya real estate promotion creative for a 1 BHK apartment project.",
+        text: "Pricing, ready possession, amenities, location आणि phone inquiry flow दाखवणारी property campaign creative."
+      },
+      {
+        title: "School admission campaign",
+        category: "Education marketing",
+        image: "/images/campaign-materials/samartha-classes-admission-banner.jpg",
+        alt: "Samartha Classes admission open banner with features, grade range, and address details.",
+        text: "Classes, batches, faculty points, digital classrooms, weekly tests आणि limited-seat messaging साठी education admission creative."
+      },
+      {
+        title: "Political birthday greeting",
+        category: "Political branding",
+        image: "/images/campaign-materials/political-birthday-greeting-creative.jpg",
+        alt: "Political birthday greeting creative designed for a public leader with Chaitanya Media branding.",
+        text: "Social posts, local recognition, supporter engagement आणि campaign recall साठी leader-focused greeting creative."
+      },
+      {
         title: "मतदार संपर्क banner",
         category: "Campaign material",
         image: "/images/campaign-materials/voter-outreach-banner.jpg",
         alt: "Chaitanya Media voter outreach facilities banner.",
         text: "SMS, voice call, WhatsApp, election software आणि voter slip printer support दाखवणारा promotion banner."
+      },
+      {
+        title: "Gudi Padwa festival creative",
+        category: "Festival campaign",
+        image: "/images/campaign-materials/gudi-padwa-festival-creative.jpg",
+        alt: "Gudi Padwa festival creative with fort illustration and Chaitanya Media branding.",
+        text: "Local cultural moments आणि seasonal campaigns मध्ये brand visible ठेवण्यासाठी festival-led social creative."
+      },
+      {
+        title: "Akshaya Tritiya brand post",
+        category: "Festival campaign",
+        image: "/images/campaign-materials/akshaya-tritiya-brand-creative.jpg",
+        alt: "Akshaya Tritiya digital growth festival creative with Chaitanya Media branding.",
+        text: "Brand visibility, greeting campaigns आणि social media calendar planning साठी clean festival post example."
       }
     ],
     testimonialSlots: [
@@ -2617,16 +2742,61 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       ]
     },
     home: {
-      heroBadge: "100+ Brands आणि Leaders चा विश्वास",
+      heroBadge: "Brands, local businesses, events आणि elections साठी",
       heroTitle: {
-        before: "Pune मधील Best Digital Marketing Agency जी ",
+        before: "Pune मध्ये ",
         accentOne: "Brands Build",
-        middle: " करते आणि ",
-        accentTwo: "Elections",
-        after: " जिंकण्यासाठी मदत करते"
+        middle: " आणि ",
+        accentTwo: "Election Campaign",
+        after: " वाढवणारे marketing"
       },
       heroCopy:
         "Pune businesses साठी websites, search visibility, ads, reels, SMS, WhatsApp, voice calls, invitations, admissions आणि election promotion.",
+      heroServiceLabel: "लोक सर्वाधिक विचारतात",
+      heroServiceHighlights: [
+        {label: "Website", slug: "web-designing"},
+        {label: "Instagram / Facebook", slug: "social-media-marketing"},
+        {label: "Google Ads", slug: "google-meta-ads"},
+        {label: "Election Campaign", slug: "election-management"},
+        {label: "Bulk SMS", slug: "bulk-sms-marketing"},
+        {label: "WhatsApp Promotion", slug: "whatsapp-business-api"},
+        {label: "Voice Call", slug: "voice-call-campaigns"},
+        {label: "Reels / Video", slug: "content-reel-production"},
+        {label: "School Admission", slug: "school-admission-campaigns"},
+        {label: "Real Estate Leads", slug: "real-estate-marketing"}
+      ],
+      heroDemandEyebrow: "Most requested work",
+      heroDemandTitle: "काम निवडा. योग्य service mix आम्ही suggest करू.",
+      heroDemandText:
+        "Clients ला service name माहीत नसते. त्यांना कोणता result हवा आहे ते माहीत असते.",
+      heroDemandCta: "माझी requirement discuss करा",
+      heroDemandItems: [
+        {
+          title: "Election campaign setup",
+          text: "SMS, WhatsApp, voice, voter slip, booth kit आणि field material",
+          slug: "election-management"
+        },
+        {
+          title: "Website + Google visibility",
+          text: "Website pages, SEO, Google presence आणि inquiry route",
+          slug: "web-development"
+        },
+        {
+          title: "Reels + social ads",
+          text: "Short videos, posts, Instagram, Facebook आणि lead campaigns",
+          slug: "content-reel-production"
+        },
+        {
+          title: "Bulk SMS + WhatsApp follow-up",
+          text: "Fast awareness, reminders, offers आणि response capture",
+          slug: "bulk-sms-marketing"
+        },
+        {
+          title: "Real estate inquiry campaign",
+          text: "Project promotion, local targeting, creatives आणि follow-up",
+          slug: "real-estate-marketing"
+        }
+      ],
       primaryCta: "Chaitanya Media शी बोला",
       secondaryCta: "Services पहा",
       aboutEyebrow: "आम्ही कोण",
@@ -3108,7 +3278,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         whatsappTitle: "WhatsApp Consultation",
         whatsappText: "Quick campaign आणि growth discussion साठी best.",
         phoneText: "Ads, SMS, WhatsApp, websites आणि campaign services साठी call करा.",
-        emailTitle: "Email Inquiry",
+        emailTitle: "ईमेल चौकशी",
         emailText: "Project context, campaign goals आणि written scope पाठवा."
       },
       requestEyebrow: "Growth request",
@@ -3375,11 +3545,46 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         text: "Election outreach, print, survey, technical और field material capabilities दिखाने वाली real service-menu creative."
       },
       {
+        title: "Real estate project promotion",
+        category: "Real estate marketing",
+        image: "/images/campaign-materials/sk-group-real-estate-promotion.jpg",
+        alt: "SK Group Akshaya Tritiya real estate promotion creative for a 1 BHK apartment project.",
+        text: "Pricing, ready possession, amenities, location और phone inquiry flow दिखाने वाली property campaign creative."
+      },
+      {
+        title: "School admission campaign",
+        category: "Education marketing",
+        image: "/images/campaign-materials/samartha-classes-admission-banner.jpg",
+        alt: "Samartha Classes admission open banner with features, grade range, and address details.",
+        text: "Classes, batches, faculty points, digital classrooms, weekly tests और limited-seat messaging के लिए education admission creative."
+      },
+      {
+        title: "Political birthday greeting",
+        category: "Political branding",
+        image: "/images/campaign-materials/political-birthday-greeting-creative.jpg",
+        alt: "Political birthday greeting creative designed for a public leader with Chaitanya Media branding.",
+        text: "Social posts, local recognition, supporter engagement और campaign recall के लिए leader-focused greeting creative."
+      },
+      {
         title: "Voter outreach banner",
         category: "Campaign material",
         image: "/images/campaign-materials/voter-outreach-banner.jpg",
         alt: "Chaitanya Media voter outreach facilities banner.",
         text: "SMS, voice call, WhatsApp, election software और voter slip printer support दिखाने वाला promotion banner."
+      },
+      {
+        title: "Gudi Padwa festival creative",
+        category: "Festival campaign",
+        image: "/images/campaign-materials/gudi-padwa-festival-creative.jpg",
+        alt: "Gudi Padwa festival creative with fort illustration and Chaitanya Media branding.",
+        text: "Local cultural moments और seasonal campaigns में brand visible रखने के लिए festival-led social creative."
+      },
+      {
+        title: "Akshaya Tritiya brand post",
+        category: "Festival campaign",
+        image: "/images/campaign-materials/akshaya-tritiya-brand-creative.jpg",
+        alt: "Akshaya Tritiya digital growth festival creative with Chaitanya Media branding.",
+        text: "Brand visibility, greeting campaigns और social media calendar planning के लिए clean festival post example."
       }
     ],
     testimonialSlots: [
@@ -3626,16 +3831,61 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
       ]
     },
     home: {
-      heroBadge: "100+ Brands और Leaders का विश्वास",
+      heroBadge: "Brands, local businesses, events और elections के लिए",
       heroTitle: {
-        before: "Pune की Best Digital Marketing Agency जो ",
-        accentOne: "Brands बनाती है",
+        before: "Pune में ",
+        accentOne: "Brands बनाने",
         middle: " और ",
-        accentTwo: "Elections",
-        after: " जीतने में मदद करती है"
+        accentTwo: "Election Campaign",
+        after: " बढ़ाने वाला marketing"
       },
       heroCopy:
         "Pune businesses के लिए websites, search visibility, ads, reels, SMS, WhatsApp, voice calls, invitations, admissions और election promotion.",
+      heroServiceLabel: "लोग सबसे ज्यादा यह पूछते हैं",
+      heroServiceHighlights: [
+        {label: "Website", slug: "web-designing"},
+        {label: "Instagram / Facebook", slug: "social-media-marketing"},
+        {label: "Google Ads", slug: "google-meta-ads"},
+        {label: "Election Campaign", slug: "election-management"},
+        {label: "Bulk SMS", slug: "bulk-sms-marketing"},
+        {label: "WhatsApp Promotion", slug: "whatsapp-business-api"},
+        {label: "Voice Call", slug: "voice-call-campaigns"},
+        {label: "Reels / Video", slug: "content-reel-production"},
+        {label: "School Admission", slug: "school-admission-campaigns"},
+        {label: "Real Estate Leads", slug: "real-estate-marketing"}
+      ],
+      heroDemandEyebrow: "Most requested work",
+      heroDemandTitle: "काम चुनें. सही service mix हम suggest करेंगे.",
+      heroDemandText:
+        "Clients को service name नहीं पता होता. उन्हें बस result पता होता है जो चाहिए.",
+      heroDemandCta: "मेरी requirement discuss करें",
+      heroDemandItems: [
+        {
+          title: "Election campaign setup",
+          text: "SMS, WhatsApp, voice, voter slip, booth kit और field material",
+          slug: "election-management"
+        },
+        {
+          title: "Website + Google visibility",
+          text: "Website pages, SEO, Google presence और inquiry route",
+          slug: "web-development"
+        },
+        {
+          title: "Reels + social ads",
+          text: "Short videos, posts, Instagram, Facebook और lead campaigns",
+          slug: "content-reel-production"
+        },
+        {
+          title: "Bulk SMS + WhatsApp follow-up",
+          text: "Fast awareness, reminders, offers और response capture",
+          slug: "bulk-sms-marketing"
+        },
+        {
+          title: "Real estate inquiry campaign",
+          text: "Project promotion, local targeting, creatives और follow-up",
+          slug: "real-estate-marketing"
+        }
+      ],
       primaryCta: "Chaitanya Media से बात करें",
       secondaryCta: "Services देखें",
       aboutEyebrow: "हम कौन हैं",
@@ -4117,7 +4367,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         whatsappTitle: "WhatsApp Consultation",
         whatsappText: "Quick campaign और growth discussion के लिए best.",
         phoneText: "Ads, SMS, WhatsApp, websites और campaign services के लिए call करें.",
-        emailTitle: "Email Inquiry",
+        emailTitle: "ईमेल पूछताछ",
         emailText: "Project context, campaign goals और written scope भेजें."
       },
       requestEyebrow: "Growth request",

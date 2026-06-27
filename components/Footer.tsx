@@ -51,7 +51,7 @@ export function Footer({content, locale}: FooterProps) {
         <div className="footer-brand">
           <Link className="footer-brand-lockup" href={localePath(locale, "/")} aria-label={content.header.ariaHome}>
             <Image
-              src="/images/chaitanya-media-icon.svg"
+              src="/images/chaitanya-media-icon.png"
               alt={content.site.name}
               width={64}
               height={64}

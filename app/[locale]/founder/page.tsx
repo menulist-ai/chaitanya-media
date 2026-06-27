@@ -4,7 +4,8 @@ import {setRequestLocale} from "next-intl/server";
 import {JsonLd} from "@/components/JsonLd";
 import {SectionIntro} from "@/components/SectionIntro";
 import {createMetadata} from "@/lib/seo";
-import {absoluteUrl, getContent, getLocale, localizedAbsoluteUrl} from "@/lib/site";
+import {getContent, getLocale} from "@/lib/site";
+import {breadcrumbJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type FounderPageProps = {
   params: Promise<{
@@ -32,18 +33,19 @@ export default async function FounderPage({params}: FounderPageProps) {
   const copy = content.founderPage;
   setRequestLocale(locale);
 
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    name: content.site.name,
-    url: localizedAbsoluteUrl(locale, "/"),
-    logo: absoluteUrl("/images/chaitanya-media-icon-vector-transparent.png"),
-    address: {
-      "@type": "PostalAddress",
-      addressLocality: "Pune",
-      addressCountry: "IN"
-    }
-  };
+  const schema = [
+    webPageJsonLd({
+      locale,
+      path: "/founder/",
+      name: copy.metaTitle,
+      description: copy.metaDescription,
+      type: "AboutPage"
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: copy.eyebrow, path: "/founder/"}
+    ])
+  ];
 
   return (
     <>
@@ -61,7 +63,7 @@ export default async function FounderPage({params}: FounderPageProps) {
           <div>
             <div className="founder-logo-proof" aria-label={content.site.name}>
               <Image
-                src="/images/chaitanya-media-icon.svg"
+                src="/images/chaitanya-media-icon.png"
                 alt=""
                 width={104}
                 height={104}

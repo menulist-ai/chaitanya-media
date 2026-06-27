@@ -10,8 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/about/",
     "/founder/",
     "/blog/",
-    "/contact/",
-    "/thank-you/"
+    "/contact/"
   ];
 
   return routing.locales.flatMap((locale) => {
@@ -22,7 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [...staticRoutes, ...serviceRoutes, ...blogRoutes, ...legalRoutes].map((route) => ({
       url: `${siteBase.url}${localePath(locale, route)}`,
-      lastModified: new Date("2026-06-20"),
+      lastModified: new Date("2026-06-27"),
       changeFrequency: route === "/" ? "weekly" : "monthly",
       priority: route === "/" ? 1 : route.includes("/services/") ? 0.8 : 0.6
     }));

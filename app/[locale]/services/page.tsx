@@ -5,7 +5,8 @@ import {JsonLd} from "@/components/JsonLd";
 import {SectionIntro} from "@/components/SectionIntro";
 import {createMetadata} from "@/lib/seo";
 import {serviceAccentClass} from "@/lib/service-accent";
-import {getContent, getLocale, localePath, localizedAbsoluteUrl} from "@/lib/site";
+import {getContent, getLocale, localePath} from "@/lib/site";
+import {breadcrumbJsonLd, serviceItemListJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type ServicesPageProps = {
   params: Promise<{
@@ -33,28 +34,24 @@ export default async function ServicesPage({params}: ServicesPageProps) {
   const copy = content.servicesPage;
   setRequestLocale(locale);
 
-  const serviceListSchema = {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    itemListElement: content.services.map((service, index) => ({
-      "@type": "ListItem",
-      position: index + 1,
-      item: {
-        "@type": "Service",
-        name: service.title,
-        description: service.summary,
-        url: localizedAbsoluteUrl(locale, `/services/${service.slug}/`),
-        provider: {
-          "@type": "Organization",
-          name: content.site.name
-        }
-      }
-    }))
-  };
+  const schema = [
+    webPageJsonLd({
+      locale,
+      path: "/services/",
+      name: copy.metaTitle,
+      description: copy.metaDescription,
+      type: "CollectionPage"
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: copy.title, path: "/services/"}
+    ]),
+    serviceItemListJsonLd(locale, content)
+  ];
 
   return (
     <>
-      <JsonLd data={serviceListSchema} />
+      <JsonLd data={schema} />
       <section className="page-hero">
         <div className="container">
           <p className="eyebrow">{copy.eyebrow}</p>

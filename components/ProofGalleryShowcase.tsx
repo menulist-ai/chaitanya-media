@@ -15,8 +15,8 @@ export function ProofGalleryShowcase({items}: ProofGalleryShowcaseProps) {
               src={item.image}
               alt={item.alt}
               fill
-              sizes="(max-width: 720px) 100vw, 50vw"
-              loading="eager"
+              sizes="(max-width: 720px) 100vw, (max-width: 1080px) 50vw, 33vw"
+              loading="lazy"
             />
           </div>
           <div>

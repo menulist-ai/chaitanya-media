@@ -1,9 +1,11 @@
 import Link from "next/link";
 import {ArrowRight, Megaphone} from "lucide-react";
 import {setRequestLocale} from "next-intl/server";
+import {JsonLd} from "@/components/JsonLd";
 import {SectionIntro} from "@/components/SectionIntro";
 import {createMetadata} from "@/lib/seo";
 import {getContent, getLocale, localePath} from "@/lib/site";
+import {blogItemListJsonLd, breadcrumbJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type BlogPageProps = {
   params: Promise<{
@@ -31,9 +33,24 @@ export default async function BlogPage({params}: BlogPageProps) {
   const copy = content.blogPage;
   const categories = Array.from(new Set(content.blogPosts.map((post) => post.category)));
   setRequestLocale(locale);
+  const schema = [
+    webPageJsonLd({
+      locale,
+      path: "/blog/",
+      name: copy.metaTitle,
+      description: copy.metaDescription,
+      type: "Blog"
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: copy.title, path: "/blog/"}
+    ]),
+    blogItemListJsonLd(locale, content)
+  ];
 
   return (
     <>
+      <JsonLd data={schema} />
       <section className="page-hero">
         <div className="container">
           <p className="eyebrow">{copy.eyebrow}</p>

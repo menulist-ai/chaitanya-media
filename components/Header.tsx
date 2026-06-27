@@ -15,7 +15,7 @@ export function Header({content, locale}: HeaderProps) {
       <nav className="nav-shell" aria-label="Main navigation">
         <Link className="brand" href={localePath(locale, "/")} aria-label={content.header.ariaHome}>
           <Image
-            src="/images/chaitanya-media-icon.svg"
+            src="/images/chaitanya-media-icon.png"
             alt={content.site.name}
             width={64}
             height={64}

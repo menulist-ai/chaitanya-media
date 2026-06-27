@@ -1,5 +1,5 @@
 import type {Metadata} from "next";
-import {htmlLangByLocale, type AppLocale} from "@/i18n/routing";
+import {htmlLangByLocale, routing, type AppLocale} from "@/i18n/routing";
 import {absoluteUrl, localizedAbsoluteUrl, siteBase} from "@/lib/site";
 
 type MetadataInput = {
@@ -18,12 +18,17 @@ export function createMetadata({
   locale = "en"
 }: MetadataInput): Metadata {
   const canonical = localizedAbsoluteUrl(locale, path);
+  const languages = Object.fromEntries([
+    ["x-default", localizedAbsoluteUrl(routing.defaultLocale, path)],
+    ...routing.locales.map((item) => [htmlLangByLocale[item], localizedAbsoluteUrl(item, path)])
+  ]);
 
   return {
     title,
     description,
     alternates: {
-      canonical
+      canonical,
+      languages
     },
     openGraph: {
       title,
@@ -32,9 +37,9 @@ export function createMetadata({
       siteName: siteBase.name,
       images: [
         {
-          url: absoluteUrl("/images/chaitanya-media-icon-vector-transparent.png"),
-          width: 1600,
-          height: 1600,
+          url: absoluteUrl("/og-image.png"),
+          width: 1200,
+          height: 630,
           alt: siteBase.name
         }
       ],
@@ -45,7 +50,7 @@ export function createMetadata({
       card: "summary_large_image",
       title,
       description,
-      images: [absoluteUrl("/images/chaitanya-media-icon-vector-transparent.png")]
+      images: [absoluteUrl("/og-image.png")]
     },
     robots: noIndex
       ? {

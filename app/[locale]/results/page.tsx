@@ -12,6 +12,7 @@ import {TestimonialShowcase} from "@/components/TestimonialShowcase";
 import {TrustCredentialStrip} from "@/components/TrustCredentialStrip";
 import {createMetadata} from "@/lib/seo";
 import {getContent, getLocale, localePath} from "@/lib/site";
+import {breadcrumbJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type ResultsPageProps = {
   params: Promise<{
@@ -39,12 +40,19 @@ export default async function ResultsPage({params}: ResultsPageProps) {
   const copy = content.resultsPage;
   setRequestLocale(locale);
 
-  const proofSchema = {
-    "@context": "https://schema.org",
-    "@type": "AboutPage",
-    name: copy.schemaName,
-    description: copy.schemaDescription
-  };
+  const proofSchema = [
+    webPageJsonLd({
+      locale,
+      path: "/results/",
+      name: copy.schemaName,
+      description: copy.schemaDescription,
+      type: "CollectionPage"
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: copy.title, path: "/results/"}
+    ])
+  ];
 
   return (
     <>

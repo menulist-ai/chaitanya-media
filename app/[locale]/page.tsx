@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import {
   ArrowRight,
   BarChart3,
@@ -22,12 +23,14 @@ import {CaseStudyShowcase} from "@/components/CaseStudyShowcase";
 import {ComplianceShowcase} from "@/components/ComplianceShowcase";
 import {JsonLd} from "@/components/JsonLd";
 import {PortfolioShowcase} from "@/components/PortfolioShowcase";
+import {ProofGalleryShowcase} from "@/components/ProofGalleryShowcase";
 import {ServiceGoalStack} from "@/components/ServiceGoalStack";
 import {TestimonialShowcase} from "@/components/TestimonialShowcase";
 import {TrustCredentialStrip} from "@/components/TrustCredentialStrip";
 import {UgcVideoShowcase} from "@/components/UgcVideoShowcase";
 import {createMetadata} from "@/lib/seo";
-import {getContent, getLocale, localizedAbsoluteUrl} from "@/lib/site";
+import {getContent, getLocale, localePath} from "@/lib/site";
+import {breadcrumbJsonLd, serviceItemListJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type HomePageProps = {
   params: Promise<{
@@ -72,24 +75,16 @@ export default async function HomePage({params}: HomePageProps) {
     content.socialLinks.find((link) => link.kind === "instagram")?.href ?? content.site.whatsapp;
   setRequestLocale(locale);
 
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    itemListElement: content.services.map((service, index) => ({
-      "@type": "ListItem",
-      position: index + 1,
-      item: {
-        "@type": "Service",
-        name: service.title,
-        description: service.summary,
-        provider: {
-          "@type": "Organization",
-          name: content.site.name
-        },
-        url: localizedAbsoluteUrl(locale, `/services/${service.slug}/`)
-      }
-    }))
-  };
+  const schema = [
+    webPageJsonLd({
+      locale,
+      path: "/",
+      name: content.servicesPage.metaTitle,
+      description: content.site.description
+    }),
+    breadcrumbJsonLd(locale, [{name: content.notFoundPage.home, path: "/"}]),
+    serviceItemListJsonLd(locale, content)
+  ];
 
   return (
     <>
@@ -97,31 +92,73 @@ export default async function HomePage({params}: HomePageProps) {
       <section className="hero" id="top">
         <div className="hero-bg" aria-hidden="true" />
         <div className="container hero-content">
-          <div className="hero-badge">{home.heroBadge}</div>
-          <h1>
-            {home.heroTitle.before}
-            <span>{home.heroTitle.accentOne}</span>
-            {home.heroTitle.middle}
-            <span>{home.heroTitle.accentTwo}</span>
-            {home.heroTitle.after}
-          </h1>
-          <p>{home.heroCopy}</p>
-          <div className="hero-actions">
-            <a className="button button-primary" href="#contact">
-              {home.primaryCta} <ArrowRight aria-hidden="true" size={17} />
-            </a>
-            <a className="button button-secondary" href="#services">
-              {home.secondaryCta}
-            </a>
-          </div>
-          <div className="hero-stats">
-            {content.heroStats.map((stat) => (
-              <div key={stat.label}>
-                <strong>{stat.value}</strong>
-                <span>{stat.label}</span>
+          <div className="hero-main">
+            <div className="hero-badge">{home.heroBadge}</div>
+            <h1>
+              {home.heroTitle.before}
+              <span>{home.heroTitle.accentOne}</span>
+              {home.heroTitle.middle}
+              <span>{home.heroTitle.accentTwo}</span>
+              {home.heroTitle.after}
+            </h1>
+            <p className="hero-copy-text">{home.heroCopy}</p>
+            <div className="hero-actions">
+              <a className="button button-primary" href="#contact">
+                {home.primaryCta} <ArrowRight aria-hidden="true" size={17} />
+              </a>
+              <a className="button button-secondary" href="#services">
+                {home.secondaryCta}
+              </a>
+            </div>
+            <div className="hero-service-strip" aria-label={home.heroServiceLabel}>
+              <span>{home.heroServiceLabel}</span>
+              <div className="hero-service-marquee">
+                {[0, 1].map((track) => (
+                  <div
+                    aria-hidden={track === 1}
+                    className="hero-service-track"
+                    key={track}
+                  >
+                    {home.heroServiceHighlights.map((item) => (
+                      <Link
+                        className="hero-service-pill"
+                        href={localePath(locale, `/services/${item.slug}/`)}
+                        key={`${track}-${item.slug}`}
+                      >
+                        {item.label}
+                      </Link>
+                    ))}
+                  </div>
+                ))}
               </div>
-            ))}
+            </div>
           </div>
+          <aside className="hero-demand-card" aria-label={home.heroDemandTitle}>
+            <div className="hero-demand-heading">
+              <span>{home.heroDemandEyebrow}</span>
+              <h2>{home.heroDemandTitle}</h2>
+              <p>{home.heroDemandText}</p>
+            </div>
+            <div className="hero-demand-list">
+              {home.heroDemandItems.map((item, index) => (
+                <Link
+                  className="hero-demand-item"
+                  href={localePath(locale, `/services/${item.slug}/`)}
+                  key={item.slug}
+                >
+                  <span>{String(index + 1).padStart(2, "0")}</span>
+                  <div>
+                    <strong>{item.title}</strong>
+                    <small>{item.text}</small>
+                  </div>
+                  <ArrowRight aria-hidden="true" size={16} />
+                </Link>
+              ))}
+            </div>
+            <a className="hero-demand-cta" href="#contact">
+              {home.heroDemandCta} <ArrowRight aria-hidden="true" size={16} />
+            </a>
+          </aside>
         </div>
       </section>
 
@@ -152,7 +189,14 @@ export default async function HomePage({params}: HomePageProps) {
           <div className="engine-loop" aria-label={home.engineTitle}>
             <div className="engine-loop-center">
               <span>{content.site.shortName}</span>
-              <strong>{home.engineCards.length}</strong>
+              <div className="engine-loop-logo" aria-hidden="true">
+                <Image
+                  alt=""
+                  height={80}
+                  src="/images/chaitanya-media-icon.svg"
+                  width={80}
+                />
+              </div>
               <p>{home.engineText}</p>
             </div>
             {home.engineCards.map((item, index) => {
@@ -242,7 +286,6 @@ export default async function HomePage({params}: HomePageProps) {
               >
                 <div className="workflow-step-count">
                   {String(index + 1).padStart(2, "0")}
-                  <span>/{String(home.workflowSteps.length).padStart(2, "0")}</span>
                 </div>
                 <div>
                   <h3>{step.title}</h3>
@@ -344,6 +387,7 @@ export default async function HomePage({params}: HomePageProps) {
             locale={locale}
             viewLabel={content.resultsPage.portfolioCta}
           />
+          <ProofGalleryShowcase items={content.proofGalleryItems.slice(0, 4)} />
         </div>
       </section>
 
@@ -513,14 +557,14 @@ export default async function HomePage({params}: HomePageProps) {
         <div className="container final-card">
           <div className="final-brand-lockup" aria-label={content.site.name}>
             <Image
-              src="/images/chaitanya-media-icon.svg"
+              src="/images/chaitanya-media-icon.png"
               alt=""
-              width={82}
-              height={82}
+              width={56}
+              height={56}
               className="final-brand-mark"
             />
             <div className="final-brand-copy">
-              <span>
+              <span className="final-brand-name">
                 Chaitanya <strong>Media</strong>
               </span>
               <small>{content.site.tagline}</small>

@@ -8,9 +8,9 @@ import {
   getContent,
   getLocale,
   getService,
-  localizedAbsoluteUrl,
   services as englishServices
 } from "@/lib/site";
+import {breadcrumbJsonLd, faqJsonLd, serviceJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type ServicePageProps = {
   params: Promise<{
@@ -56,32 +56,21 @@ export default async function ServicePage({params}: ServicePageProps) {
     notFound();
   }
 
+  const path = `/services/${service.slug}/`;
   const schema = [
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      name: service.title,
-      description: service.summary,
-      provider: {
-        "@type": "Organization",
-        name: content.site.name,
-        url: localizedAbsoluteUrl(locale, "/")
-      },
-      areaServed: "India",
-      url: localizedAbsoluteUrl(locale, `/services/${service.slug}/`)
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      mainEntity: service.faqs.map((faq) => ({
-        "@type": "Question",
-        name: faq.question,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: faq.answer
-        }
-      }))
-    }
+    webPageJsonLd({
+      locale,
+      path,
+      name: `${service.title} Services`,
+      description: service.summary
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: content.notFoundPage.services, path: "/services/"},
+      {name: service.title, path}
+    ]),
+    serviceJsonLd(locale, service),
+    faqJsonLd(service.faqs)
   ];
 
   return (

@@ -6,14 +6,13 @@ import {JsonLd} from "@/components/JsonLd";
 import {routing} from "@/i18n/routing";
 import {createMetadata} from "@/lib/seo";
 import {
-  absoluteUrl,
   blogPosts as englishBlogPosts,
   getBlogPost,
   getContent,
   getLocale,
-  localePath,
-  localizedAbsoluteUrl
+  localePath
 } from "@/lib/site";
+import {articleJsonLd, breadcrumbJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type BlogPostPageProps = {
   params: Promise<{
@@ -60,27 +59,21 @@ export default async function BlogPostPage({params}: BlogPostPageProps) {
     notFound();
   }
 
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: post.title,
-    description: post.excerpt,
-    datePublished: post.date,
-    dateModified: post.date,
-    author: {
-      "@type": "Person",
-      name: copy.authorName
-    },
-    publisher: {
-      "@type": "Organization",
-      name: content.site.name,
-      logo: {
-        "@type": "ImageObject",
-        url: absoluteUrl("/images/chaitanya-media-icon-vector-transparent.png")
-      }
-    },
-    mainEntityOfPage: localizedAbsoluteUrl(locale, `/blog/${post.slug}/`)
-  };
+  const path = `/blog/${post.slug}/`;
+  const articleSchema = [
+    webPageJsonLd({
+      locale,
+      path,
+      name: post.title,
+      description: post.excerpt
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: content.blogPage.title, path: "/blog/"},
+      {name: post.title, path}
+    ]),
+    articleJsonLd(locale, content, post)
+  ];
 
   return (
     <>

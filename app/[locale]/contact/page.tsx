@@ -1,8 +1,10 @@
 import {Mail, MessageCircle, Phone, ShieldAlert} from "lucide-react";
 import {setRequestLocale} from "next-intl/server";
+import {JsonLd} from "@/components/JsonLd";
 import {SectionIntro} from "@/components/SectionIntro";
 import {createMetadata} from "@/lib/seo";
 import {getContent, getLocale} from "@/lib/site";
+import {breadcrumbJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type ContactPageProps = {
   params: Promise<{
@@ -29,9 +31,23 @@ export default async function ContactPage({params}: ContactPageProps) {
   const content = getContent(locale);
   const copy = content.contactPage;
   setRequestLocale(locale);
+  const schema = [
+    webPageJsonLd({
+      locale,
+      path: "/contact/",
+      name: copy.metaTitle,
+      description: copy.metaDescription,
+      type: "ContactPage"
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: copy.title, path: "/contact/"}
+    ])
+  ];
 
   return (
     <>
+      <JsonLd data={schema} />
       <section className="page-hero">
         <div className="container">
           <p className="eyebrow">{copy.eyebrow}</p>

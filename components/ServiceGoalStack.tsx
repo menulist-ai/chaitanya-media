@@ -106,11 +106,6 @@ export function ServiceGoalStack({groups, locale, note, services, title}: Servic
     <div className="service-stack-shell">
       <aside className="service-stack-browser" aria-label={title}>
         <div className="service-stack-browser-top">
-          <div className="browser-dots" aria-hidden="true">
-            <span />
-            <span />
-            <span />
-          </div>
           <strong>{title}</strong>
         </div>
         <div className="service-stack-browser-body">

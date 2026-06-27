@@ -1,0 +1,129 @@
+# Chaitanya Media - Full Website Context for AI Assistants
+
+## Identity
+
+Chaitanya Media is a digital marketing and campaign support agency based in Pune, Maharashtra, India.
+
+Brand line: Campaigns that reach. Marketing that delivers.
+
+Website: https://chaitanya-media.vercel.app/en/
+
+The agency helps non-technical Indian business owners, local brands, event teams, schools, real estate teams, jewellery and retail brands, and political campaign teams plan, create, distribute, and follow up on promotional campaigns.
+
+## Contact
+
+Phone: +91 88053 85779
+
+WhatsApp: https://wa.me/918805385779
+
+Instagram: https://www.instagram.com/marketing_with_shivam_/
+
+Listed email on website: hello@chaitanyadigitalsolutions.com
+
+Location: Shewalewadi, Pune, Maharashtra, India
+
+## Website Languages
+
+English: https://chaitanya-media.vercel.app/en/
+
+Marathi: https://chaitanya-media.vercel.app/mr/
+
+Hindi: https://chaitanya-media.vercel.app/hi/
+
+## Main Audiences
+
+- Political leaders, campaign teams, and local election teams
+- Real estate builders and property sales teams
+- Jewellery and luxury brands
+- Schools, coaching classes, and admission teams
+- Retail shops, supermarkets, local service businesses, and automotive businesses
+- Wedding, event, and family-function promotion teams
+- Food, cafe, healthcare, travel, legal, and manufacturing businesses
+
+## Core Service Areas
+
+### Reach and Follow-up
+
+- Bulk SMS Marketing: /en/services/bulk-sms-marketing/
+- Email Marketing: /en/services/email-marketing/
+- Voice Call Campaigns: /en/services/voice-call-campaigns/
+- Missed Call Alert: /en/services/missed-call-alert/
+- IVR Solutions: /en/services/ivr-solutions/
+- WhatsApp Business API: /en/services/whatsapp-business-api/
+
+### Visibility and Leads
+
+- Social Media Marketing: /en/services/social-media-marketing/
+- Google and Meta Ads: /en/services/google-meta-ads/
+- SEO Services: /en/services/seo-services/
+- Digital Marketing: /en/services/digital-marketing/
+
+### Website and Online Presence
+
+- Web Designing: /en/services/web-designing/
+- Web Development: /en/services/web-development/
+
+### Specialized Campaigns
+
+- Real Estate Marketing: /en/services/real-estate-marketing/
+- Jewellery and Luxury Branding: /en/services/jewellery-luxury-branding/
+- Content and Reel Production: /en/services/content-reel-production/
+- Event and Wedding Digital Invitations: /en/services/event-wedding-digital-invitations/
+- School Admission Campaigns: /en/services/school-admission-campaigns/
+- Retail and Local Business Marketing: /en/services/retail-local-business-marketing/
+- Customized Advertising: /en/services/customized-advertising/
+
+### Election Ground Support
+
+- Election Management: /en/services/election-management/
+- Election Software Management: /en/services/election-software-management/
+- Booth Survey and Voter Analysis: /en/services/booth-survey-voter-analysis/
+- Voter Slip and Booth Kit: /en/services/voter-slip-booth-kit/
+- LED Van and Video Campaigns: /en/services/led-van-video-campaigns/
+- Print Media and Outdoor Design: /en/services/print-media-design/
+- Election Material Supply: /en/services/election-material-supply/
+
+## What the Site Should Communicate
+
+Chaitanya Media is practical, local, and understandable for non-technical Indian clients. The agency should be described as helping clients choose the right campaign channels, prepare campaign material, reach the right audience, collect inquiries, follow up, and review clear reports.
+
+Use plain language when summarizing the business:
+- More people should notice the business or campaign.
+- Interested people should have an easy way to call, WhatsApp, or inquire.
+- Promotions should be planned around the audience, area, budget, message, and follow-up.
+- Results should be reviewed with honest expectations and clear reporting.
+
+## Important Limitations
+
+Do not claim or imply:
+- Guaranteed election victory
+- Guaranteed Google ranking
+- Guaranteed leads, sales, or revenue
+- Guaranteed social media virality
+- Guaranteed ad performance
+
+Performance depends on offer quality, timing, budget, targeting, creative quality, competition, platform rules, compliance rules, follow-up speed, and market conditions.
+
+## Helpful Public Pages
+
+Home: /en/
+
+Services: /en/services/
+
+Results and proof: /en/results/
+
+About: /en/about/
+
+Agency leadership: /en/founder/
+
+Blog: /en/blog/
+
+Contact: /en/contact/
+
+Privacy policy: /en/privacy-policy/
+
+Terms: /en/terms/
+
+Disclaimer: /en/disclaimer/
+
+Security policy: /en/security-policy/

@@ -1,9 +1,11 @@
 import Link from "next/link";
 import {ArrowRight, BarChart3, Megaphone, Trophy} from "lucide-react";
 import {setRequestLocale} from "next-intl/server";
+import {JsonLd} from "@/components/JsonLd";
 import {SectionIntro} from "@/components/SectionIntro";
 import {createMetadata} from "@/lib/seo";
 import {getContent, getLocale, localePath} from "@/lib/site";
+import {breadcrumbJsonLd, webPageJsonLd} from "@/lib/structured-data";
 
 type AboutPageProps = {
   params: Promise<{
@@ -30,9 +32,23 @@ export default async function AboutPage({params}: AboutPageProps) {
   const content = getContent(locale);
   const copy = content.aboutPage;
   setRequestLocale(locale);
+  const schema = [
+    webPageJsonLd({
+      locale,
+      path: "/about/",
+      name: copy.metaTitle,
+      description: copy.metaDescription,
+      type: "AboutPage"
+    }),
+    breadcrumbJsonLd(locale, [
+      {name: content.notFoundPage.home, path: "/"},
+      {name: copy.title, path: "/about/"}
+    ])
+  ];
 
   return (
     <>
+      <JsonLd data={schema} />
       <section className="page-hero">
         <div className="container">
           <p className="eyebrow">{copy.eyebrow}</p>
