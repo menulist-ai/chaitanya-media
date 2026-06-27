@@ -175,7 +175,7 @@ export default async function HomePage({params}: HomePageProps) {
                 <Image
                   alt=""
                   height={80}
-                  src="/images/chaitanya-media-icon.svg"
+                  src="/images/chaitanya-media-icon.png"
                   width={80}
                 />
               </div>
