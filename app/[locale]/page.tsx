@@ -304,27 +304,7 @@ export default async function HomePage({params}: HomePageProps) {
         </div>
       </section>
 
-      <section className="section section-results" id="results">
-        <div className="container">
-          <div className="section-heading">
-            <h2>
-              {home.resultsTitleBefore}
-              <span>{home.resultsTitleAccent}</span>
-            </h2>
-          </div>
-          <div className="result-grid">
-            {content.resultStats.map((stat) => (
-              <article className="result-card" key={stat.label}>
-                <BarChart3 aria-hidden="true" size={24} />
-                <strong>{stat.value}</strong>
-                <span>{stat.label}</span>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="section section-soft">
+      <section className="section section-soft" id="results">
         <div className="container">
           <div className="section-heading">
             <h2>{content.resultsPage.caseStudiesTitle}</h2>
