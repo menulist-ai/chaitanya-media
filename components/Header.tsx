@@ -3,7 +3,7 @@
 import {useState} from "react";
 import Image from "next/image";
 import Link from "next/link";
-import {ChevronDown, Phone} from "lucide-react";
+import {ArrowRight, ChevronDown, LayoutGrid, MessageCircle, Phone} from "lucide-react";
 import {MobileNav} from "@/components/MobileNav";
 import {localePath, type AppLocale, type SiteContent} from "@/lib/site";
 
@@ -67,44 +67,98 @@ export function Header({content, locale}: HeaderProps) {
                   <ChevronDown aria-hidden="true" size={14} />
                 </Link>
                 <div className="desktop-services-panel" aria-label={content.home.serviceStackTitle}>
-                  <div className="desktop-services-grid">
-                    {content.home.serviceGroups.map((group) => (
-                      <section className="desktop-service-group" key={group.title}>
-                        <h3>
-                          <Link href={localePath(locale, `/services/${group.slug}/`)} onClick={closeDesktopServices}>
-                            {group.title}
-                          </Link>
-                        </h3>
-                        <p>{group.text}</p>
-                        <div className="desktop-service-links">
-                          {group.slugs.map((slug) => {
-                            const service = serviceBySlug.get(slug);
-
-                            if (!service) {
-                              return null;
-                            }
-
-                            return (
-                              <Link
-                                href={localePath(locale, `/services/${service.slug}/`)}
-                                key={service.slug}
-                                onClick={closeDesktopServices}
-                              >
-                                {service.title}
-                              </Link>
-                            );
-                          })}
-                        </div>
-                      </section>
-                    ))}
-                  </div>
                   <Link
-                    className="desktop-services-all"
+                    className="desktop-services-overview"
                     href={localePath(locale, "/services/")}
                     onClick={closeDesktopServices}
                   >
-                    {allServicesLabel}
+                    <span className="desktop-services-overview-icon" aria-hidden="true">
+                      <LayoutGrid size={22} strokeWidth={2.1} />
+                    </span>
+                    <span className="desktop-services-overview-copy">
+                      <strong>{allServicesLabel}</strong>
+                      <span>{content.home.serviceStackTitle}</span>
+                    </span>
+                    <ArrowRight aria-hidden="true" className="desktop-services-overview-arrow" size={24} />
                   </Link>
+
+                  <div className="desktop-services-layout">
+                    <section className="desktop-services-goals" aria-labelledby="desktop-services-goals-title">
+                      <span className="desktop-services-kicker" id="desktop-services-goals-title">
+                        {content.home.serviceStackEyebrow}
+                      </span>
+                      <div className="desktop-service-goal-list">
+                        {content.home.serviceGroups.map((group, index) => (
+                          <Link
+                            className="desktop-service-goal"
+                            href={localePath(locale, `/services/${group.slug}/`)}
+                            key={group.title}
+                            onClick={closeDesktopServices}
+                          >
+                            <span>{String(index + 1).padStart(2, "0")}</span>
+                            <strong>{group.title}</strong>
+                            <small>{String(group.slugs.length).padStart(2, "0")}</small>
+                          </Link>
+                        ))}
+                      </div>
+                    </section>
+
+                    <section className="desktop-services-index" aria-labelledby="desktop-services-index-title">
+                      <span className="desktop-services-kicker" id="desktop-services-index-title">
+                        {content.footer.servicesHeading}
+                      </span>
+                      <div className="desktop-service-clusters">
+                        {content.home.serviceGroups.map((group) => (
+                          <div className="desktop-service-cluster" key={group.title}>
+                            <h3>{group.title}</h3>
+                            <div className="desktop-service-links">
+                              {group.slugs.map((slug) => {
+                                const service = serviceBySlug.get(slug);
+
+                                if (!service) {
+                                  return null;
+                                }
+
+                                return (
+                                  <Link
+                                    href={localePath(locale, `/services/${service.slug}/`)}
+                                    key={service.slug}
+                                    onClick={closeDesktopServices}
+                                  >
+                                    {service.title}
+                                  </Link>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </section>
+
+                    <aside className="desktop-services-help" aria-label={content.header.consultation}>
+                      <span className="desktop-services-help-icon" aria-hidden="true">
+                        <MessageCircle size={22} strokeWidth={2.1} />
+                      </span>
+                      <h3>
+                        {content.home.contactTitleBefore}
+                        <span>{content.home.contactTitleAccent}</span>
+                      </h3>
+                      <p>{content.home.contactCopy}</p>
+                      <div className="desktop-services-help-points" aria-hidden="true">
+                        {content.home.heroServiceHighlights.slice(0, 4).map((highlight) => (
+                          <span key={highlight.slug}>{highlight.label}</span>
+                        ))}
+                      </div>
+                      <div className="desktop-services-help-actions">
+                        <a href={content.site.whatsapp} onClick={closeDesktopServices}>
+                          {content.header.whatsapp}
+                        </a>
+                        <Link href={localePath(locale, "/#contact")} onClick={closeDesktopServices}>
+                          {content.header.consultation}
+                        </Link>
+                      </div>
+                    </aside>
+                  </div>
                 </div>
               </div>
             );
