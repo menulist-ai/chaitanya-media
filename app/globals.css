@@ -275,7 +275,7 @@ svg {
 
 .desktop-services-panel {
   position: absolute;
-  top: calc(100% + 12px);
+  top: calc(100% - 8px);
   left: 50%;
   width: min(1040px, calc(100vw - 48px));
   max-height: min(calc(100dvh - 112px), 720px);
@@ -295,15 +295,6 @@ svg {
   visibility: hidden;
   z-index: 70;
   backdrop-filter: blur(18px);
-}
-
-.desktop-services-panel::before {
-  content: "";
-  position: absolute;
-  top: -14px;
-  left: 0;
-  width: 100%;
-  height: 14px;
 }
 
 .desktop-services-nav:hover .desktop-services-panel,
