@@ -91,10 +91,11 @@ export function UgcVideoShowcase({videos}: UgcVideoShowcaseProps) {
           aria-label={activeVideo.title}
           aria-modal="true"
           className="ugc-player-backdrop"
+          data-lenis-prevent=""
           onClick={() => setActiveVideo(null)}
           role="dialog"
         >
-          <div className="ugc-player-modal" onClick={(event) => event.stopPropagation()}>
+          <div className="ugc-player-modal" data-lenis-prevent="" onClick={(event) => event.stopPropagation()}>
             <button
               aria-label="Close video"
               className="ugc-player-close"

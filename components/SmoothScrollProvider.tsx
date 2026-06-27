@@ -12,9 +12,7 @@ export function SmoothScrollProvider() {
     }
 
     const lenis = new Lenis({
-      anchors: {
-        offset: 0
-      },
+      anchors: true,
       autoRaf: true,
       duration: 1.05,
       stopInertiaOnNavigate: true

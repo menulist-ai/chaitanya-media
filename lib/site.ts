@@ -11,6 +11,7 @@ export const instagramProfileUrl = "https://www.instagram.com/marketing_with_shi
 export const siteBase = {
   name: "Chaitanya Media",
   shortName: "Chaitanya Media",
+  tagline: "Campaigns that reach. Marketing that delivers.",
   url: "https://chaitanyadigitalsolutions.com",
   email: "hello@chaitanyadigitalsolutions.com",
   phone: "+918805385779",

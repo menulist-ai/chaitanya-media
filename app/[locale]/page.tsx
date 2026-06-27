@@ -511,13 +511,21 @@ export default async function HomePage({params}: HomePageProps) {
 
       <section className="section section-final">
         <div className="container final-card">
-          <Image
-            src="/images/chaitanya-media-icon.svg"
-            alt=""
-            width={82}
-            height={82}
-            className="final-logo"
-          />
+          <div className="final-brand-lockup" aria-label={content.site.name}>
+            <Image
+              src="/images/chaitanya-media-icon.svg"
+              alt=""
+              width={82}
+              height={82}
+              className="final-brand-mark"
+            />
+            <div className="final-brand-copy">
+              <span>
+                Chaitanya <strong>Media</strong>
+              </span>
+              <small>{content.site.tagline}</small>
+            </div>
+          </div>
           <h2>
             {home.finalTitleBefore}
             <span>{home.finalTitleAccent}</span>

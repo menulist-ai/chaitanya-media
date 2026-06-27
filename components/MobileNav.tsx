@@ -32,7 +32,7 @@ export function MobileNav({
       <summary aria-label={menuLabel}>
         <Menu aria-hidden="true" size={22} />
       </summary>
-      <div className="mobile-panel">
+      <div className="mobile-panel" data-lenis-prevent="">
         <div className="mobile-panel-head">
           <strong>{shortName}</strong>
           <button

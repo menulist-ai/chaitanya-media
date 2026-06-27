@@ -105,10 +105,6 @@ html[data-theme="dark"] {
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   margin: 0;
   background: var(--bg);
@@ -2272,11 +2268,59 @@ html[data-theme="dark"] .ugc-video-frame:hover {
   box-shadow: 0 22px 54px rgba(24, 24, 26, 0.1);
 }
 
-.final-logo {
+.final-brand-lockup {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin: 0 auto 28px;
+  padding: 14px 18px;
+  border: 1px solid rgba(201, 226, 101, 0.2);
+  border-radius: 22px;
+  background:
+    linear-gradient(135deg, rgba(201, 226, 101, 0.08), rgba(255, 255, 255, 0.02)),
+    rgba(255, 255, 255, 0.02);
+}
+
+.final-brand-mark {
   display: block;
-  width: 96px;
+  width: 66px;
   height: auto;
-  margin: 0 auto 18px;
+  flex: 0 0 auto;
+}
+
+.final-brand-copy {
+  display: grid;
+  justify-items: start;
+  gap: 6px;
+  text-align: left;
+}
+
+.final-brand-copy span {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  color: var(--footer-text);
+  font-family: var(--font-heading), var(--font-devanagari), sans-serif;
+  font-size: clamp(24px, 3vw, 34px);
+  font-weight: 850;
+  letter-spacing: 0;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.final-brand-copy strong {
+  color: var(--accent);
+  font: inherit;
+}
+
+.final-brand-copy small {
+  color: color-mix(in srgb, var(--footer-text) 76%, transparent);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  line-height: 1.35;
+  text-transform: uppercase;
 }
 
 .final-card p {
@@ -2908,6 +2952,34 @@ html[data-theme="dark"] .ugc-video-frame:hover {
   .founder-logo-proof span {
     font-size: 28px;
     flex-wrap: wrap;
+  }
+
+  .final-brand-lockup {
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 320px;
+    padding: 18px;
+  }
+
+  .final-brand-mark {
+    width: 58px;
+  }
+
+  .final-brand-copy {
+    justify-items: center;
+    text-align: center;
+  }
+
+  .final-brand-copy span {
+    justify-content: center;
+    font-size: 24px;
+    white-space: normal;
+  }
+
+  .final-brand-copy small {
+    max-width: 240px;
+    letter-spacing: 0.12em;
   }
 
   .nav-cta {
