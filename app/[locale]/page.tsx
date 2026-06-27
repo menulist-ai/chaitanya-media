@@ -221,24 +221,22 @@ export default async function HomePage({params}: HomePageProps) {
       <section className="section section-system" id="why-us">
         <div className="container">
           <div className="system-heading">
-            <div>
-              <h2>{home.systemTitle}</h2>
-            </div>
-            <div>
-              <p>{home.systemText}</p>
-              <div className="system-pills" aria-label={home.systemEyebrow}>
-                {home.systemPills.map((pill) => (
-                  <span key={pill}>{pill}</span>
-                ))}
-              </div>
+            <h2>{home.systemTitle}</h2>
+            <p>{home.systemText}</p>
+            <div className="system-pills" aria-label={home.systemEyebrow}>
+              {home.systemPills.map((pill) => (
+                <span key={pill}>{pill}</span>
+              ))}
             </div>
           </div>
           <div className="system-capability-grid">
             {home.systemCapabilities.map((item) => (
               <article className="system-card" key={item.title}>
                 <span>{item.kicker}</span>
-                <h3>{item.title}</h3>
-                <p>{item.text}</p>
+                <div className="system-card-copy">
+                  <h3>{item.title}</h3>
+                  <p>{item.text}</p>
+                </div>
                 <ul>
                   {item.points.map((point) => (
                     <li key={point}>
