@@ -48,6 +48,7 @@ export function ThemeToggle({lightLabel, darkLabel}: ThemeToggleProps) {
 
   const nextTheme: Theme = theme === "dark" ? "light" : "dark";
   const label = nextTheme === "light" ? lightLabel : darkLabel;
+  const visibleLabel = nextTheme === "light" ? "Light" : "Dark";
   const Icon = nextTheme === "light" ? Sun : Moon;
 
   return (
@@ -67,7 +68,10 @@ export function ThemeToggle({lightLabel, darkLabel}: ThemeToggleProps) {
       type="button"
       suppressHydrationWarning
     >
-      <Icon aria-hidden="true" className="theme-toggle-icon" strokeWidth={2.35} />
+      <Icon aria-hidden="true" className="theme-toggle-icon" size={22} strokeWidth={2.35} />
+      <span aria-hidden="true" className="theme-toggle-label">
+        {visibleLabel}
+      </span>
     </button>
   );
 }

@@ -697,6 +697,15 @@ svg {
   stroke: currentColor;
 }
 
+.theme-toggle-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
 .theme-toggle:hover {
   border-color: var(--button-border-hover);
   background: var(--control-bg);
@@ -3439,10 +3448,32 @@ html[data-theme="dark"] .ugc-video-frame:hover {
   color: var(--button-text);
 }
 
+.site-footer .theme-toggle {
+  width: auto;
+  min-width: 96px;
+  min-height: 42px;
+  gap: 8px;
+  padding: 0 14px;
+}
+
 .site-footer .theme-toggle-icon {
-  width: 21px;
-  height: 21px;
-  flex-basis: 21px;
+  width: 22px;
+  height: 22px;
+  flex-basis: 22px;
+  stroke-width: 2.45px;
+}
+
+.site-footer .theme-toggle-label {
+  position: static;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+  color: currentColor;
+  font-size: 13px;
+  font-weight: 750;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .footer-preferences {
