@@ -1,3 +1,6 @@
+"use client";
+
+import {useState} from "react";
 import Image from "next/image";
 import Link from "next/link";
 import {ChevronDown, Phone} from "lucide-react";
@@ -10,9 +13,11 @@ type HeaderProps = {
 };
 
 export function Header({content, locale}: HeaderProps) {
+  const [isServicesDismissed, setIsServicesDismissed] = useState(false);
   const serviceBySlug = new Map(content.services.map((service) => [service.slug, service]));
   const allServicesLabel =
     content.footer.resourceLinks.find((link) => link.href === "/services/")?.label || content.footer.servicesHeading;
+  const closeDesktopServices = () => setIsServicesDismissed(true);
 
   return (
     <header className="site-header">
@@ -44,11 +49,19 @@ export function Header({content, locale}: HeaderProps) {
             }
 
             return (
-              <div className="desktop-nav-item desktop-services-nav" key={item.href}>
+              <div
+                className="desktop-nav-item desktop-services-nav"
+                data-dismissed={isServicesDismissed ? "true" : "false"}
+                key={item.href}
+                onFocus={() => setIsServicesDismissed(false)}
+              >
                 <Link
                   aria-haspopup="true"
+                  aria-expanded={isServicesDismissed ? "false" : undefined}
                   className="desktop-nav-link desktop-services-trigger"
                   href={localePath(locale, item.href)}
+                  onClick={closeDesktopServices}
+                  onPointerEnter={() => setIsServicesDismissed(false)}
                 >
                   {item.label}
                   <ChevronDown aria-hidden="true" size={14} />
@@ -58,7 +71,7 @@ export function Header({content, locale}: HeaderProps) {
                     {content.home.serviceGroups.map((group) => (
                       <section className="desktop-service-group" key={group.title}>
                         <h3>
-                          <Link href={localePath(locale, `/services/${group.slug}/`)}>
+                          <Link href={localePath(locale, `/services/${group.slug}/`)} onClick={closeDesktopServices}>
                             {group.title}
                           </Link>
                         </h3>
@@ -72,7 +85,11 @@ export function Header({content, locale}: HeaderProps) {
                             }
 
                             return (
-                              <Link href={localePath(locale, `/services/${service.slug}/`)} key={service.slug}>
+                              <Link
+                                href={localePath(locale, `/services/${service.slug}/`)}
+                                key={service.slug}
+                                onClick={closeDesktopServices}
+                              >
                                 {service.title}
                               </Link>
                             );
@@ -81,7 +98,11 @@ export function Header({content, locale}: HeaderProps) {
                       </section>
                     ))}
                   </div>
-                  <Link className="desktop-services-all" href={localePath(locale, "/services/")}>
+                  <Link
+                    className="desktop-services-all"
+                    href={localePath(locale, "/services/")}
+                    onClick={closeDesktopServices}
+                  >
                     {allServicesLabel}
                   </Link>
                 </div>
