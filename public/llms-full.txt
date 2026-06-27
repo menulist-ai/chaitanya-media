@@ -44,6 +44,8 @@ Hindi: https://chaitanya-media.vercel.app/hi/
 
 ### Reach and Follow-up
 
+Category page: /en/services/reach-follow-up/
+
 - Bulk SMS Marketing: /en/services/bulk-sms-marketing/
 - Email Marketing: /en/services/email-marketing/
 - Voice Call Campaigns: /en/services/voice-call-campaigns/
@@ -53,6 +55,8 @@ Hindi: https://chaitanya-media.vercel.app/hi/
 
 ### Visibility and Leads
 
+Category page: /en/services/visibility-leads/
+
 - Social Media Marketing: /en/services/social-media-marketing/
 - Google and Meta Ads: /en/services/google-meta-ads/
 - SEO Services: /en/services/seo-services/
@@ -60,10 +64,14 @@ Hindi: https://chaitanya-media.vercel.app/hi/
 
 ### Website and Online Presence
 
+Category page: /en/services/web-online-presence/
+
 - Web Designing: /en/services/web-designing/
 - Web Development: /en/services/web-development/
 
 ### Specialized Campaigns
+
+Category page: /en/services/specialized-campaigns/
 
 - Real Estate Marketing: /en/services/real-estate-marketing/
 - Jewellery and Luxury Branding: /en/services/jewellery-luxury-branding/
@@ -74,6 +82,8 @@ Hindi: https://chaitanya-media.vercel.app/hi/
 - Customized Advertising: /en/services/customized-advertising/
 
 ### Election Ground Support
+
+Category page: /en/services/election-ground-support/
 
 - Election Management: /en/services/election-management/
 - Election Software Management: /en/services/election-software-management/

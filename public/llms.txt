@@ -5,6 +5,7 @@ Official website: https://chaitanya-media.vercel.app/en/
 Chaitanya Media is a Pune-based digital marketing and campaign support agency for Indian businesses, local brands, event teams, schools, real estate teams, jewellery and retail brands, and political campaigns.
 
 Primary services:
+- Service category pages: /en/services/reach-follow-up/, /en/services/visibility-leads/, /en/services/web-online-presence/, /en/services/specialized-campaigns/, /en/services/election-ground-support/
 - Digital marketing strategy and customized advertising
 - Social media marketing, content, reels, and campaign creatives
 - Google Ads, Meta Ads, SEO, web designing, and web development

@@ -62,6 +62,28 @@ export default async function ServicesPage({params}: ServicesPageProps) {
 
       <section className="section section-services">
         <div className="container">
+          <SectionIntro
+            eyebrow={content.home.serviceStackEyebrow}
+            title={content.home.serviceStackTitle}
+            text={content.home.serviceStackText}
+          />
+          <div className="category-link-grid">
+            {content.home.serviceGroups.map((group) => (
+              <Link className="category-link-card" href={localePath(locale, `/services/${group.slug}/`)} key={group.slug}>
+                <span>{String(group.slugs.length).padStart(2, "0")}</span>
+                <h3>{group.title}</h3>
+                <p>{group.text}</p>
+                <strong>
+                  {content.serviceDetail.viewService} <ArrowRight aria-hidden="true" size={16} />
+                </strong>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="section section-about">
+        <div className="container">
           <SectionIntro eyebrow={copy.menuEyebrow} title={copy.menuTitle} />
           <div className="service-card-grid">
             {content.services.map((service) => (

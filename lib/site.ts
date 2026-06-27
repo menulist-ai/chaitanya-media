@@ -282,7 +282,7 @@ type HomeCopy = {
   serviceStackEyebrow: string;
   serviceStackTitle: string;
   serviceStackText: string;
-  serviceGroups: {title: string; text: string; slugs: string[]}[];
+  serviceGroups: ServiceGroup[];
   systemEyebrow: string;
   systemTitle: string;
   systemText: string;
@@ -296,6 +296,13 @@ type HomeCopy = {
   ugcTitle: string;
   ugcText: string;
   ugcVideos: {title: string; category: string; src: string; poster: string}[];
+};
+
+export type ServiceGroup = {
+  slug: string;
+  title: string;
+  text: string;
+  slugs: string[];
 };
 
 type ServicesPageCopy = {
@@ -1825,6 +1832,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         "Services are grouped in plain language so Indian business owners and campaign teams can quickly understand what fits their need.",
       serviceGroups: [
         {
+          slug: "reach-follow-up",
           title: "Reach & Follow-up",
           text: "SMS, WhatsApp, email, voice calls, missed calls, and IVR for awareness, reminders, and inquiry response.",
           slugs: [
@@ -1837,6 +1845,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "visibility-leads",
           title: "Visibility & Leads",
           text: "Social media, Google and Instagram ads, Google search support, and local business campaigns to bring more attention and inquiries.",
           slugs: [
@@ -1848,11 +1857,13 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "web-online-presence",
           title: "Website & Online Presence",
           text: "Websites that make the business look credible and ready for promotion.",
           slugs: ["web-designing", "web-development"]
         },
         {
+          slug: "specialized-campaigns",
           title: "Specialized Campaigns",
           text: "Focused promotion for elections, real estate, jewellery, weddings, schools, reels, and custom local advertising.",
           slugs: [
@@ -1866,6 +1877,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "election-ground-support",
           title: "Election Ground Support",
           text: "On-ground election support for surveys, voter slips, print material, video vans, and booth teams.",
           slugs: [
@@ -2915,6 +2927,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         "Services plain language मध्ये group केल्या आहेत, त्यामुळे Indian business owners आणि campaign teams ला काय fit होते ते पटकन समजते.",
       serviceGroups: [
         {
+          slug: "reach-follow-up",
           title: "Reach आणि Follow-up",
           text: "Awareness, reminders आणि inquiry response साठी SMS, WhatsApp, email, voice calls, missed calls आणि IVR.",
           slugs: [
@@ -2927,6 +2940,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "visibility-leads",
           title: "Visibility आणि Leads",
           text: "Local attention आणि inquiries वाढवण्यासाठी social media, Google आणि Instagram ads, Google search support आणि local business campaigns.",
           slugs: [
@@ -2938,11 +2952,13 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "web-online-presence",
           title: "Website आणि Online Presence",
           text: "Business credible आणि promotion-ready दिसण्यासाठी websites.",
           slugs: ["web-designing", "web-development"]
         },
         {
+          slug: "specialized-campaigns",
           title: "Specialized Campaigns",
           text: "Elections, real estate, jewellery, weddings, schools, reels आणि custom local advertising साठी focused promotion.",
           slugs: [
@@ -2956,6 +2972,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "election-ground-support",
           title: "Election Ground Support",
           text: "Surveys, voter slips, print material, video vans आणि booth teams साठी on-ground election support.",
           slugs: [
@@ -4004,6 +4021,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
         "Services plain language में grouped हैं, इसलिए Indian business owners और campaign teams जल्दी समझते हैं कि उनके लिए क्या fit है.",
       serviceGroups: [
         {
+          slug: "reach-follow-up",
           title: "Reach और Follow-up",
           text: "Awareness, reminders और inquiry response के लिए SMS, WhatsApp, email, voice calls, missed calls और IVR.",
           slugs: [
@@ -4016,6 +4034,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "visibility-leads",
           title: "Visibility और Leads",
           text: "Local attention और inquiries बढ़ाने के लिए social media, Google और Instagram ads, Google search support और local business campaigns.",
           slugs: [
@@ -4027,11 +4046,13 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "web-online-presence",
           title: "Website और Online Presence",
           text: "Business को credible और promotion-ready दिखाने वाली websites.",
           slugs: ["web-designing", "web-development"]
         },
         {
+          slug: "specialized-campaigns",
           title: "Specialized Campaigns",
           text: "Elections, real estate, jewellery, weddings, schools, reels और custom local advertising के लिए focused promotion.",
           slugs: [
@@ -4045,6 +4066,7 @@ export const contentByLocale: Record<AppLocale, SiteContent> = {
           ]
         },
         {
+          slug: "election-ground-support",
           title: "Election Ground Support",
           text: "Surveys, voter slips, print material, video vans और booth teams के लिए on-ground election support.",
           slugs: [
@@ -4436,6 +4458,13 @@ export function getService(localeOrSlug: string, maybeSlug?: string) {
   return getContent(locale).services.find((service) => service.slug === slug);
 }
 
+export function getServiceGroup(localeOrSlug: string, maybeSlug?: string) {
+  const locale = maybeSlug ? localeOrSlug : routing.defaultLocale;
+  const slug = maybeSlug ?? localeOrSlug;
+
+  return getContent(locale).home.serviceGroups.find((group) => group.slug === slug);
+}
+
 export function getBlogPost(localeOrSlug: string, maybeSlug?: string) {
   const locale = maybeSlug ? localeOrSlug : routing.defaultLocale;
   const slug = maybeSlug ?? localeOrSlug;
@@ -4467,6 +4496,7 @@ export const navItems = contentByLocale.en.navItems;
 export const heroStats = contentByLocale.en.heroStats;
 export const trustMarkers = contentByLocale.en.trustMarkers;
 export const services = contentByLocale.en.services;
+export const serviceGroups = contentByLocale.en.home.serviceGroups;
 export const agencyStrengths = contentByLocale.en.agencyStrengths;
 export const industries = contentByLocale.en.industries;
 export const whyChooseUs = contentByLocale.en.whyChooseUs;

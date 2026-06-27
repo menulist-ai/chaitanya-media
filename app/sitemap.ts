@@ -15,11 +15,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return routing.locales.flatMap((locale) => {
     const content = contentByLocale[locale];
+    const serviceCategoryRoutes = content.home.serviceGroups.map((group) => `/services/${group.slug}/`);
     const serviceRoutes = content.services.map((service) => `/services/${service.slug}/`);
     const blogRoutes = content.blogPosts.map((post) => `/blog/${post.slug}/`);
     const legalRoutes = legalPageSlugs.map((slug) => `/${slug}/`);
 
-    return [...staticRoutes, ...serviceRoutes, ...blogRoutes, ...legalRoutes].map((route) => ({
+    return [...staticRoutes, ...serviceCategoryRoutes, ...serviceRoutes, ...blogRoutes, ...legalRoutes].map((route) => ({
       url: `${siteBase.url}${localePath(locale, route)}`,
       lastModified: new Date("2026-06-27"),
       changeFrequency: route === "/" ? "weekly" : "monthly",

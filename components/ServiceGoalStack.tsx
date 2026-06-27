@@ -23,16 +23,10 @@ import {
   Volume2
 } from "lucide-react";
 import {serviceAccentClass} from "@/lib/service-accent";
-import {localePath, type AppLocale, type Service} from "@/lib/site";
-
-type ServiceGoalGroup = {
-  title: string;
-  text: string;
-  slugs: string[];
-};
+import {localePath, type AppLocale, type Service, type ServiceGroup} from "@/lib/site";
 
 type ServiceGoalStackProps = {
-  groups: ServiceGoalGroup[];
+  groups: ServiceGroup[];
   locale: AppLocale;
   note: string;
   services: Service[];
@@ -136,7 +130,11 @@ export function ServiceGoalStack({groups, locale, note, services, title}: Servic
             key={group.title}
           >
             <div className="service-group-head">
-              <h3>{group.title}</h3>
+              <h3>
+                <Link href={localePath(locale, `/services/${group.slug}/`)}>
+                  {group.title}
+                </Link>
+              </h3>
               <p>{group.text}</p>
             </div>
             <div className="service-link-list">

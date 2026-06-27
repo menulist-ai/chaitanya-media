@@ -67,7 +67,7 @@ export function ThemeToggle({lightLabel, darkLabel}: ThemeToggleProps) {
       type="button"
       suppressHydrationWarning
     >
-      <Icon aria-hidden="true" size={18} />
+      <Icon aria-hidden="true" className="theme-toggle-icon" strokeWidth={2.35} />
     </button>
   );
 }
